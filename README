@@ -1,0 +1,21 @@
+************************************
+Bits and bobs i hacked together
+
+Mostly rubbish/interesting hacks
+
+Some for useful stuff!!
+
+~~~~~~~~brain_screw.pl~~~~~~~~~~~
+
+This perl program simply converts a brain fcuk program
+into a c program, it takes input from stdin and outputs to stdout
+I've included the hello world example from wikipedia
+
+An example way to run the script would be:
+
+cat hello_world.bf | perl brain_screw.pl > out.c && gcc -o test out.c && ./test
+
+You should see hello world ! hahah :D 
+
+
+
