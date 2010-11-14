@@ -17,5 +17,34 @@ cat hello_world.bf | perl brain_screw.pl > out.c && gcc -o test out.c && ./test
 
 You should see hello world ! hahah :D 
 
+~~~~~~~~~~quick_tex.pl~~~~~~~~~~~~~
 
+Incomplete and heavily broken( if you use many mathsy symbols) perl plugin that makes writing
+latex quick notes or documents a breeze.
 
+Particularly good if you just want a simple article or some sort of project page!
+
+WARNING: DEALS BADLY WITH MATHS
+
+Any latex symbols can be directly put into the source and they will be preserved.
+
+It quite simply removes the harder syntax for a simpler syntax:
+
+for example heres what a file should look like for use with quick_tex.pl:
+
+t: This is my title
+a: I am the author
+d: Date goes here
+
+sect: This is a section
+
+li:
+- each
+- of 
+- these 
+- are 
+- items 
+- in the list
+eli:
+
+This is just normal text as you would right but can include latex symbols such as \langle or \rightarrow :)
