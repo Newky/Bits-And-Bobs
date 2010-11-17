@@ -48,3 +48,19 @@ li:
 eli:
 
 This is just normal text as you would right but can include latex symbols such as \langle or \rightarrow :)
+
+~~~~~~~~~~done.pl~~~~~~~~~~~~~
+
+Done is a todo list (see what i did there)
+
+The reason why this is here is because its self editing!
+
+It prints all the todo's as comments to the end of the file
+
+display prints the comments
+
+del goes through and asks what todo u want to del
+
+it then uses sed to remove line numbers 
+
+I think its pretty nice :)
