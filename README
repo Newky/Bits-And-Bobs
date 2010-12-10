@@ -64,3 +64,21 @@ del goes through and asks what todo u want to del
 it then uses sed to remove line numbers 
 
 I think its pretty nice :)
+
+~~~~~~~~~~~tagadd & tagls~~~~
+
+Yet another perl hack for tag support,
+
+I read an interesting article http://www.linuxjournal.com/content/talking-point-could-linux-abandon-directories-favour-tagging
+
+And it got me thinking, this is my first attempt at a tagging system!
+
+Its deeply flawed but its a starter point!
+
+to add a tag
+
+./tagadd <file or folder name> <tag>
+
+to list 
+
+./tagls <tag>
