@@ -1,0 +1,9 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+my $db = $ENV{'HOME'} . "/bin/tags.db";
+
+if ($#ARGV+1 == 1){
+	my $command = sprintf("sqlite3 %s 'SELECT tags.filename FROM tags, tag_index WHERE tags.tag_id = tag_index.tag_id AND tag_index.tag_name = \"%s\"'", $db,  $ARGV[0]);
+	system($command);
+}

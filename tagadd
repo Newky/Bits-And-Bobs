@@ -1,0 +1,17 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+my $db = $ENV{'HOME'} . "/bin/tags.db";
+if ($#ARGV+1 == 2){
+	chomp(my $filename = `pwd`);
+	$filename .= "/".$ARGV[0];
+	my $num;
+	$num = `sqlite3 $db 'SELECT tag_id FROM tag_index WHERE tag_name = \"$ARGV[1]\"'`;
+	if(defined($num)){
+	my $command = sprintf("sqlite3 %s 'insert into tag_index(tag_id, tag_name) VALUES (NULL, \"%s\")'", $db,$ARGV[1]);
+	`$command`;
+	$num = `sqlite3 $db 'SELECT tag_id FROM tag_index WHERE tag_name = \"$ARGV[1]\"'`;
+	}
+	my $command = sprintf("sqlite3 %s 'insert into tags(id, filename, tag_id) VALUES (NULL, \"%s\",\"%d\")'",$db, $filename, int($num));
+	`$command`;
+}
