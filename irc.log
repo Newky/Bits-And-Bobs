@@ -1,0 +1,3754 @@
+**** BEGIN LOGGING AT Fri May 20 14:58:29 2011
+
+May 20 14:58:29 *	Now talking on #linuxformat
+
+May 20 14:58:29 *	Topic for #linuxformat is: #LinuxFormat -- the official IRC channel for the UK's biggest-selling Linux magazine (www.linuxformat.com)
+
+May 20 14:58:29 *	Topic for #linuxformat set by M-Saunders!~mike@89.167.143.232 at Wed May 18 15:19:51 2011
+
+May 20 14:58:30 *	ChanServ gives channel operator status to M-Saunders
+
+May 20 14:58:30 <cchristiansen>	48 ;)
+
+May 20 14:58:39 <cchristiansen>	Woooooo MIKE!
+
+May 20 14:58:40 <EspadaV8>	49
+
+May 20 14:58:42 <M-Saunders>	Hello!
+
+May 20 14:58:42 <Twister_Kuriboh>	:o
+
+May 20 14:58:43 <Darth_Tux2328>	Hi Mike
+
+May 20 14:58:46 <EspadaV8>	48 nicks 1 op
+
+May 20 14:58:48 <spamsnake>	hey
+
+May 20 14:58:48 <M-Saunders>	Wow, a decent amount of people
+
+May 20 14:58:50 <Twister_Kuriboh>	XD
+
+May 20 14:58:51 <popey>	pip pip
+
+May 20 14:58:52 <jellyman>	Hey Mike :)
+
+May 20 14:58:54 <EspadaV8>	oooh
+
+May 20 14:58:57 <braintooth>	Mke!
+
+May 20 14:59:00 *	EspadaV8 bows down
+
+May 20 14:59:05 <hydrantmark>	hi mike
+
+May 20 14:59:12 <cchristiansen>	where's the rest of the team?
+
+May 20 14:59:20 <JonTheNiceGuy>	braintooth: I'm not surprised - send me a mail if you want URLs
+
+May 20 14:59:24 <M-Saunders>	Rest of the team'll be here shortly
+
+May 20 14:59:27 <M-Saunders>	JonRob is one of us
+
+May 20 14:59:30 *	JonRob is here (aka Jonathan Roberts)
+
+May 20 14:59:38 <EspadaV8>	ah, the new guy
+
+May 20 14:59:40 <tristan2468>	hey mike
+
+May 20 14:59:43 <Twister_Kuriboh>	wow, he was here alittle too early
+
+May 20 14:59:52 <M-Saunders>	Are lots of people here still at work?
+
+May 20 14:59:55 <M-Saunders>	Like us?
+
+May 20 14:59:57 <tristan2468>	yeah im at work
+
+May 20 14:59:57 <JonTheNiceGuy>	popey: I'm shocked that TheBugCast isn't on that list ;)
+
+May 20 14:59:59 <sbox>	is graham joining too
+
+May 20 15:00:00 <herrgruen>	my podcasts: frostcast, going linux, knightcast, lo, mintcast, tr, uupc and some in german language.
+
+May 20 15:00:00 <Twister_Kuriboh>	not me *yawn*
+
+May 20 15:00:01 <JonTheNiceGuy>	I'm at work
+
+May 20 15:00:01 <popey>	WFH
+
+May 20 15:00:03 <scott_n>	Yup, at work
+
+May 20 15:00:05 <tristan2468>	ssh'd into home runnign a screen session
+
+May 20 15:00:05 <EspadaV8>	thankfully not, no :)
+
+May 20 15:00:09 *	felissilvestris (~paul@invisiblebooks.demon.co.uk) has joined #linuxformat
+
+May 20 15:00:09 <maxwildcat>	Yup at work 
+
+May 20 15:00:10 <jstitch>	I just began my workday...
+
+May 20 15:00:12 <braintooth>	I just w3oke up
+
+May 20 15:00:12 <M-Saunders>	sbox: Yep, he'll be here
+
+May 20 15:00:12 <cchristiansen>	I'm at home doing revision ;)
+
+May 20 15:00:13 <AndreasFrom>	I've got 3-days weekend _)
+
+May 20 15:00:17 <AndreasFrom>	:9
+
+May 20 15:00:18 <EspadaV8>	it's midnight here though, so it'd suck if i was
+
+May 20 15:00:29 <spamsnake>	At home, revising
+
+May 20 15:00:30 <hydrantmark>	yeah, at work
+
+May 20 15:00:33 *	M-Saunders gives channel operator status to JonRob
+
+May 20 15:00:37 <Twister_Kuriboh>	not that bad of a time over here
+
+May 20 15:00:41 <jellyman>	Nope not at work, it's past my bedtime ;)
+
+May 20 15:00:45 <cchristiansen>	spamsnake: revising for what?
+
+May 20 15:00:50 <hitomato>	I'm at home studying for my CCNA 
+
+May 20 15:00:54 *	Twister_Kuriboh looks at clock and remembers he has things to do
+
+May 20 15:00:58 *	degville (~graham@89.167.143.232) has joined #linuxformat
+
+May 20 15:00:59 <spamsnake>	Advanced Higher Music, on Monday
+
+May 20 15:01:01 <sbox>	mike do have many geeky desktops now?
+
+May 20 15:01:06 *	M-Saunders gives channel operator status to degville
+
+May 20 15:01:09 <spamsnake>	and then Higher Philosophy o Tuesday
+
+May 20 15:01:11 <Twister_Kuriboh>	music, *gasp*
+
+May 20 15:01:13 <M-Saunders>	sbox: Yeah, loads!
+
+May 20 15:01:19 <M-Saunders>	degville = Graham
+
+May 20 15:01:23 <Twister_Kuriboh>	philosophy *gasp*
+
+May 20 15:01:24 <sbox>	cool
+
+May 20 15:01:26 <Darth_Tux2328>	Hi Graham
+
+May 20 15:01:28 <degville>	yes, graham was taken.
+
+May 20 15:01:29 <degville>	hello
+
+May 20 15:01:34 <M-Saunders>	Woohoo
+
+May 20 15:01:39 <M-Saunders>	That just leaves Andrew and Effy
+
+May 20 15:01:39 <Twister_Kuriboh>	hmm.... who took it
+
+May 20 15:01:40 <spamsnake>	And, naturally, Adv. H. Computing
+
+May 20 15:01:45 <EspadaV8>	hi
+
+May 20 15:01:49 <cchristiansen>	What IRC clients are you reviewing then?
+
+May 20 15:01:52 <degville>	jon just asked why degville?
+
+May 20 15:01:57 <Twister_Kuriboh>	thank god for a non-unsual course xD
+
+May 20 15:02:06 <degville>	because he was the lead singer of the best band of the 80s
+
+May 20 15:02:14 <Twister_Kuriboh>	um... idk
+
+May 20 15:02:14 <JonRob>	which was?
+
+May 20 15:02:15 <EspadaV8>	is there any topic for today? or just a random rambling of linuxness
+
+May 20 15:02:16 <braintooth>	woohoo!
+
+May 20 15:02:28 <sbox>	are you going to have a collection of geeky desktop images in the mgazine or just one?
+
+May 20 15:02:29 <Twister_Kuriboh>	guess: rambling ;)
+
+May 20 15:02:34 <JonTheNiceGuy>	## Meeting Start ## ???? :)
+
+May 20 15:02:38 <popey>	haha
+
+May 20 15:02:41 <braintooth>	lol
+
+May 20 15:02:44 <M-Saunders>	EspadaV8: Topic is: Emacs vs Vi -- which is best?
+
+May 20 15:02:46 <M-Saunders>	Or
+
+May 20 15:02:48 <M-Saunders>	KDE vs Gnome
+
+May 20 15:02:51 <JonTheNiceGuy>	NOOOOOOOOOOOOOOOOO
+
+May 20 15:02:51 <M-Saunders>	Or Debian vs Slackware
+
+May 20 15:02:53 <popey>	Unity ☺
+
+May 20 15:02:54 <Darth_Tux2328>	I have a question: I have gnome shell installed, but I still see the window buttons
+
+May 20 15:02:54 <degville>	well, they weren't really that good. but it was sigue sigue sputnik. i always wanted to be martin degville.
+
+May 20 15:02:55 <Twister_Kuriboh>	... not again :/
+
+May 20 15:02:56 <cchristiansen>	KDE!!
+
+May 20 15:03:00 <Darth_Tux2328>	why?
+
+May 20 15:03:01 <AndreasFrom>	so flamewars!?
+
+May 20 15:03:02 <tristan2468>	Ubuntu Unity vs Gnome 3
+
+May 20 15:03:02 <EspadaV8>	woo
+
+May 20 15:03:02 <M-Saunders>	cchristiansen: Wrong
+
+May 20 15:03:04 <tristan2468>	
+
+May 20 15:03:05 <braintooth>	inciting a irc riot?
+
+May 20 15:03:05 <jstitch>	haha
+
+May 20 15:03:06 <warmana>	vi on KDE
+
+May 20 15:03:07 <jellyman>	KDE :)
+
+May 20 15:03:08 <M-Saunders>	cchristiansen: Correct answer is Xfce
+
+May 20 15:03:09 <sbox>	flamewars FTW!!!!!!!!
+
+May 20 15:03:12 *	EspadaV8 grabs the torches and pitchforks
+
+May 20 15:03:14 <M-Saunders>	Kickban coming!
+
+May 20 15:03:17 <Darth_Tux2328>	Gnome 3
+
+May 20 15:03:17 <JonTheNiceGuy>	nano on byobu
+
+May 20 15:03:22 <sbox>	lol
+
+May 20 15:03:25 <JonTheNiceGuy>	via connectbot
+
+May 20 15:03:34 *	bobthebob1234 joins EspadaV8
+
+May 20 15:03:36 <cchristiansen>	M-Saunders: KDE on arch = right answer
+
+May 20 15:03:40 <M-Saunders>	What's the best IRC client?
+
+May 20 15:03:42 <EspadaV8>	cchristiansen++
+
+May 20 15:03:43 <Twister_Kuriboh>	:), using xfce (was going to use lxde, but i hate the plainness on a non-ubutnu system)
+
+May 20 15:03:44 <popey>	irssi
+
+May 20 15:03:44 <degville>	ahahaha
+
+May 20 15:03:46 <popey>	[FACT]
+
+May 20 15:03:47 <sbox>	we are good at raging
+
+May 20 15:03:48 <warmana>	IRC online meet for LXF is a cool idea.
+
+May 20 15:03:48 <EspadaV8>	irssi
+
+May 20 15:03:49 <degville>	i'm using konversation
+
+May 20 15:03:52 <degville>	which is pretty good
+
+May 20 15:03:53 <cchristiansen>	konversation
+
+May 20 15:03:53 <braintooth>	dont know
+
+May 20 15:03:54 <EspadaV8>	kde, vim, irssi, arch
+
+May 20 15:03:54 <bobthebob1234>	What's the best IRC client?: http://webchat.freenode.net/
+
+May 20 15:03:55 <AndreasFrom>	I'll say Gnome 3, my computers is a couple of years old and doesn't run Unity!!?
+
+May 20 15:03:55 <Twister_Kuriboh>	xchat ;)
+
+May 20 15:03:55 <felissilvestris>	Gnome 3 has driven me to xfce, just wish I'd adopted it sooner, and vi
+
+May 20 15:03:59 <M-Saunders>	I wrote an IRC client called Tatanga once
+
+May 20 15:04:04 <Twister_Kuriboh>	best, mibbit XD
+
+May 20 15:04:05 <M-Saunders>	I'll see if I can dig out a screenshot
+
+May 20 15:04:07 <popey>	AndreasFrom: tried Unity2D?
+
+May 20 15:04:11 <cchristiansen>	Remember chatzilla?
+
+May 20 15:04:13 <JonTheNiceGuy>	M-Saunders: ii's pretty cool, but a little *too* geeky for most people
+
+May 20 15:04:18 <Twister_Kuriboh>	i do (kinda)
+
+May 20 15:04:20 <thameslink>	installed ayttm specially to come here
+
+May 20 15:04:20 <degville>	my main problem with tatanga was that it wasn't threaded. you had to press enter to update the display
+
+May 20 15:04:22 <tristan2468>	I keep meaning to get into xfce. I can't really get on with Gnome 3 or Unity
+
+May 20 15:04:26 <EspadaV8>	although the desktop is mostly moot, since the cli is where it's at
+
+May 20 15:04:28 <AndreasFrom>	popey: I'm using that, on Arch now though :)
+
+May 20 15:04:38 <M-Saunders>	degville: Wow, you clearly used it so much!
+
+May 20 15:04:39 <Twister_Kuriboh>	same :)
+
+May 20 15:04:42 <popey>	AndreasFrom: Unity 2D on arch?
+
+May 20 15:04:48 <Twister_Kuriboh>	XD
+
+May 20 15:04:52 <cchristiansen>	Does everybody here use arch?
+
+May 20 15:04:58 <M-Saunders>	cchristiansen: JonRob does
+
+May 20 15:04:58 <degville>	yes, nice for a curses interface though. well done on the tabbed message list.
+
+May 20 15:05:00 <popey>	← Ubuntu
+
+May 20 15:05:00 <AndreasFrom>	popey: On Ubuntu (11.04)
+
+May 20 15:05:02 <bobthebob1234>	I don't
+
+May 20 15:05:02 <Darth_Tux2328>	nope - mint!
+
+May 20 15:05:02 <Twister_Kuriboh>	me, yes, others, not too sure
+
+May 20 15:05:02 <JonTheNiceGuy>	cchristiansen: I use Ubuntu - Natty
+
+May 20 15:05:04 <M-Saunders>	cchristiansen: But he's l33t
+
+May 20 15:05:06 <sbox>	no I use aptosid
+
+May 20 15:05:09 <EspadaV8>	cchristiansen: hopefully :)
+
+May 20 15:05:10 <AndreasFrom>	popey: Gnome 3 on Arch
+
+May 20 15:05:12 <popey>	\o/ Natty
+
+May 20 15:05:14 <scott_n>	Mint
+
+May 20 15:05:15 <tristan2468>	I'm on Ubuntu Lucid
+
+May 20 15:05:17 <hydrantmark>	nope, on ubuuntu lucid atm, use #! at home
+
+May 20 15:05:18 <sbox>	who else uses aptosid
+
+May 20 15:05:18 <spamsnake>	I'm on Fedora 15 Alpha
+
+May 20 15:05:19 <felissilvestris>	mint on my notebook, fedora on my desktop
+
+May 20 15:05:20 <sbox>	?
+
+May 20 15:05:22 *	LXF_Andrew (~andrewubu@89.167.143.232) has joined #linuxformat
+
+May 20 15:05:25 <M-Saunders>	I use Minix
+
+May 20 15:05:25 <JonRob>	@cchristiansen: love it too... i've never had fewer problems with a distro
+
+May 20 15:05:27 <bobthebob1234>	lucid me
+
+May 20 15:05:27 <spamsnake>	*Beta
+
+May 20 15:05:30 *	M-Saunders gives channel operator status to LXF_Andrew
+
+May 20 15:05:32 <jstitch>	Debian w/XFCE at home | OpenSuSE w/KDE at work
+
+May 20 15:05:32 <cchristiansen>	M-Saunders: says the guy with his own OS
+
+May 20 15:05:34 <Darth_Tux2328>	Hey Andrew!
+
+May 20 15:05:39 <thameslink>	on my netbook ive got crunchbang/ubuntu/slitaz at the moment
+
+May 20 15:05:39 <sbox>	hello andrew
+
+May 20 15:05:39 <Twister_Kuriboh>	hmm... how many people would be doing this from their android phones ;/
+
+May 20 15:05:44 <degville>	Hey Andrew!
+
+May 20 15:05:49 <Bakerboy>	Arch Linux as always
+
+May 20 15:05:50 <spamsnake>	Hi Andrew
+
+May 20 15:05:51 <JonTheNiceGuy>	Twister_Kuriboh: I've done it before
+
+May 20 15:05:54 <degville>	andrew: how's xchat?
+
+May 20 15:05:54 <braintooth>	#! on laptop and Mint on desktop
+
+May 20 15:05:57 <tristan2468>	I sometimes use irssiConnectBot
+
+May 20 15:06:11 *	Effy (~linux@89.167.143.232) has joined #linuxformat
+
+May 20 15:06:18 <Darth_Tux2328>	hello!
+
+May 20 15:06:18 *	M-Saunders gives channel operator status to Effy
+
+May 20 15:06:18 <tristan2468>	hi Effy
+
+May 20 15:06:18 <cchristiansen>	Effy!
+
+May 20 15:06:22 <Twister_Kuriboh>	#!, :)
+
+May 20 15:06:22 <sbox>	hola effy!
+
+May 20 15:06:22 <M-Saunders>	And the team is complete!
+
+May 20 15:06:23 <LXF_Andrew>	Ciao! XChAT DIDN'T WANT TO CONNECT ON MY LAPTOP, BUT bugger, caps lock
+
+May 20 15:06:23 <JonTheNiceGuy>	Twister_Kuriboh: like yaaic on Android, but it does't have much in the way of a scroll back buffer
+
+May 20 15:06:25 *	popey wonders if M-Saunders LXF_Andrew JonRob and degville are all sat around in the same office, not talking to eachother but chatting on irc only?
+
+May 20 15:06:27 <jstitch>	hey Effy!
+
+May 20 15:06:28 <popey>	It's the geek way.
+
+May 20 15:06:30 <jellyman>	Hello Effy
+
+May 20 15:06:32 <spamsnake>	Hey Effy
+
+May 20 15:06:34 *	nucc1 (~nucc1@pdpc/supporter/student/nucc1) has joined #linuxformat
+
+May 20 15:06:35 <M-Saunders>	popey: Absolutely correct
+
+May 20 15:06:36 <braintooth>	theyre here
+
+May 20 15:06:38 <M-Saunders>	popey: Really, correct
+
+May 20 15:06:38 <maxwildcat>	holas Effy :)
+
+May 20 15:06:39 <popey>	☺
+
+May 20 15:06:40 <jstitch>	greetings from a mexican here ;)
+
+May 20 15:06:46 <Twister_Kuriboh>	um popey, lol
+
+May 20 15:06:47 <braintooth>	bad spelling sorry
+
+May 20 15:06:49 <popey>	I can tell from similar IP addresses 
+
+May 20 15:06:52 <popey>	(same)
+
+May 20 15:07:02 <Twister_Kuriboh>	i'm net checking atm
+
+May 20 15:07:05 <Twister_Kuriboh>	not sry
+
+May 20 15:07:05 <Effy>	Hola atodos y que vivia Mexico
+
+May 20 15:07:10 <jstitch>	viva Mexico!
+
+May 20 15:07:10 <EspadaV8>	so are you guys recording the next podcast today?
+
+May 20 15:07:10 <M-Saunders>	No es comprendo
+
+May 20 15:07:12 <herrgruen>	is there a live stream?
+
+May 20 15:07:12 <M-Saunders>	Por favor
+
+May 20 15:07:13 <popey>	89.167.143.232 is the LXF office IP then huh? :D
+
+May 20 15:07:14 <LXF_Andrew>	We normally hum in a certain key to indicate a 1 ar a 0
+
+May 20 15:07:17 <braintooth>	hOLS
+
+May 20 15:07:21 <braintooth>	Hola
+
+May 20 15:07:22 <degville>	viva Mexico!
+
+May 20 15:07:26 <M-Saunders>	Mexiwhat?
+
+May 20 15:07:35 *	random_ (5b55b9e8@gateway/web/freenode/ip.91.85.185.232) has joined #linuxformat
+
+May 20 15:07:35 <M-Saunders>	popey: No, that's our proxy in the Cayman Islands
+
+May 20 15:07:38 <Twister_Kuriboh>	that's why i don't do italian any more :/ (can't be bothered)
+
+May 20 15:07:39 <popey>	haha
+
+May 20 15:07:44 <jemark>	live steaming from which address?
+
+May 20 15:07:46 <JonTheNiceGuy>	M-Saunders: Some country in the southern hemisphere :)
+
+May 20 15:07:56 <Twister_Kuriboh>	hope my log can keep all this xD
+
+May 20 15:07:58 <M-Saunders>	So then, Linux
+
+May 20 15:08:01 <degville>	EspadaV8: we usually record the podcast the day before it goes live. so next weds if we're all in.
+
+May 20 15:08:04 <bobthebob1234>	its amazing
+
+May 20 15:08:05 <cchristiansen>	yes, Linux
+
+May 20 15:08:05 <M-Saunders>	What's the deal?
+
+May 20 15:08:10 <braintooth>	Man, I should have woken up sooner
+
+May 20 15:08:24 <Darth_Tux2328>	BSD?
+
+May 20 15:08:33 <EspadaV8>	bummer :( live random interrupts would be fun :)
+
+May 20 15:08:33 <M-Saunders>	VMS?
+
+May 20 15:08:33 *	mingtm (~ming@82-69-40-95.dsl.in-addr.zen.co.uk) has joined #linuxformat
+
+May 20 15:08:34 <LXF_Andrew>	Real men use the Hurd
+
+May 20 15:08:43 <M-Saunders>	LXF_Andrew: You mean Hurd LIVE
+
+May 20 15:08:53 <jemark>	or LSF? ;)
+
+May 20 15:08:56 <spamsnake>	GNU/Hurd, is it not?
+
+May 20 15:08:56 <Effy>	Como esta el clima en Mexico hoy?
+
+May 20 15:08:56 <sbox>	mike could you review aptosid? (very cool distro based on debian sid)
+
+May 20 15:09:01 <LXF_Andrew>	Yeah, I used top and everything. It was 1337
+
+May 20 15:09:05 <JonRob>	maybe we should do a tutorial on LSF
+
+May 20 15:09:07 <jemark>	LFS, i mean
+
+May 20 15:09:08 <M-Saunders>	The real question is, why is the Flash plugin SO CRAP?
+
+May 20 15:09:08 <felissilvestris>	I'd love a dvd full of bsd variants with some future issue of lxf
+
+May 20 15:09:10 *	EspadaV8 has nasty flashback of using LFS
+
+May 20 15:09:10 <degville>	EspadaV8: we've throught about making it more interactive, but we lack the technology as we don't do it live. it would be fun though.
+
+May 20 15:09:24 <JonTheNiceGuy>	degville, Effy, JonRob, LXF_Andrew and M-Saunders ... any of you coming to OggCamp this year? We've missed you at the last ones!
+
+May 20 15:09:25 <jstitch>	Effy: soleado, con ganas de que llueva mas tarde...
+
+May 20 15:09:25 <bobthebob1234>	Cos flash hates you
+
+May 20 15:09:26 <EspadaV8>	degville: just need to invite everyone into the office
+
+May 20 15:09:34 *	herrgruen is now known as herrgruen_afk
+
+May 20 15:09:36 <cchristiansen>	M-Saunders: It runs youtube, that's all you really need ;)
+
+May 20 15:09:40 <EspadaV8>	... along with return flight trips from there current country
+
+May 20 15:09:41 <EspadaV8>	:-D
+
+May 20 15:09:53 <popey>	\o/ OggCamp
+
+May 20 15:10:02 <M-Saunders>	Where is OggCamp?
+
+May 20 15:10:03 <JonRob>	JonTheNiceGuy: dare i ask, what's oggcamp?
+
+May 20 15:10:05 *	popey just tweeted this channel, might get a couple of extra webchat people
+
+May 20 15:10:07 <tristan2468>	Oggcamp gonna rock. I got the last ticket
+
+May 20 15:10:07 <Effy>	jstich: en que parte de Mexico estas?
+
+May 20 15:10:09 <popey>	M-Saunders: Farnham, Surrey
+
+May 20 15:10:10 <degville>	EspadaV8: if we could, we would :) now OggCamp, there's a good idea!
+
+May 20 15:10:18 <JonTheNiceGuy>	OggCamp.org
+
+May 20 15:10:20 <M-Saunders>	Not too far away then
+
+May 20 15:10:21 <jstitch>	Effy: ciudad de Mexico, zona Santa Fe
+
+May 20 15:10:31 <JonTheNiceGuy>	JonRob: It's a two-day barcamp-style event
+
+May 20 15:10:31 <popey>	Would be lovely to see you chaps there.
+
+May 20 15:10:34 <EspadaV8>	really need to go to an oggcamp
+
+May 20 15:10:45 <degville>	popey: we could almost make it this time!
+
+May 20 15:10:49 <LXF_Andrew>	Bernard Cornwell teaches us that there was an important battle at Farnham
+
+May 20 15:10:50 <jemark>	M-Saunders, my flash plugin only uses alsa, not pulse audio on Slackware :(
+
+May 20 15:10:51 <JonTheNiceGuy>	JonRob: have you come across barcamps before?
+
+May 20 15:10:55 <EspadaV8>	always at the wrong time
+
+May 20 15:10:59 *	ray__ (~ray@cpc1-seve6-0-0-cust566.13-3.cable.virginmedia.com) has joined #linuxformat
+
+May 20 15:11:00 <Effy>	jstitch: fuiste a algun evento de Freesol
+
+May 20 15:11:09 <degville>	I used to live in Godalming, if that helps.
+
+May 20 15:11:15 <JonRob>	JonTheNiceGuy - yeah, though never been to one (unless you count the barcamp day at FUDCon)
+
+May 20 15:11:15 <popey>	13/14 Aug. Venue is ace, near lots of pubs which helps
+
+May 20 15:11:21 <jstitch>	Effy: si, al de la Escuela Superior de Computo (ESCOM) de donde soy egresado
+
+May 20 15:11:28 *	qwebirc62645 (7cabc728@gateway/web/freenode/ip.124.171.199.40) has joined #linuxformat
+
+May 20 15:11:32 <DoubleDiode>	any plans for a 
+
+May 20 15:11:35 *	davmor2 (~davmor2@cpc16-wolv15-2-0-cust74.wolv.cable.virginmedia.com) has joined #linuxformat
+
+May 20 15:11:36 <M-Saunders>	No
+
+May 20 15:11:36 <EspadaV8>	isn't ir next door to you popey ?
+
+May 20 15:11:43 <JonTheNiceGuy>	JonRob: I've been to 10 or so, so far, even organised two of them
+
+May 20 15:11:47 <popey>	EspadaV8: its very close, 6 miles from my place
+
+May 20 15:12:00 *	qwebirc62645 has quit (Client Quit)
+
+May 20 15:12:04 <JonRob>	well, oggcamp sounds pretty cool on the site
+
+May 20 15:12:06 <JonTheNiceGuy>	UCubed were mine
+
+May 20 15:12:10 *	Theodore (~Snake@athedsl-222526.home.otenet.gr) has joined #linuxformat
+
+May 20 15:12:13 <Effy>	jstitch: si tienes chnce, deverias mandarnos un reporte del evento.
+
+May 20 15:12:16 <JonTheNiceGuy>	Well, me and a handful
+
+May 20 15:12:22 <DoubleDiode>	any plans for an article on py-gtk? enjoyed Paul's videos
+
+May 20 15:12:35 <bobthebob1234>	paul has videos???
+
+May 20 15:12:35 <cchristiansen>	or py-qt...
+
+May 20 15:12:40 <sbox>	mike could you review aptosid? (very cool distro based on debian sid)
+
+May 20 15:13:03 <EspadaV8>	oh, i had a good idea for a you dare us
+
+May 20 15:13:03 <Effy>	Alguien mas de LatinoAmerica?
+
+May 20 15:13:04 <M-Saunders>	sbox: How big is it? Maybe it can fit on the disc at some point
+
+May 20 15:13:12 <EspadaV8>	completely forget what it is now
+
+May 20 15:13:18 *	ubuntu (~ubuntu@cpc2-ruth6-0-0-cust436.14-1.cable.virginmedia.com) has joined #linuxformat
+
+May 20 15:13:18 <braintooth>	LOL
+
+May 20 15:13:19 <JonTheNiceGuy>	:)
+
+May 20 15:13:38 <towy71>	60 people here no
+
+May 20 15:13:40 <M-Saunders>	Hurrah, it's Friday!
+
+May 20 15:13:42 <towy71>	now
+
+May 20 15:13:44 <EspadaV8>	i'll shout it out when i remember
+
+May 20 15:13:45 <degville>	py-gtk? i don't see why not. we could ask nick to look into it for one of his python tuts. i wrote something on py-qt ages ago.
+
+May 20 15:13:48 <LXF_Andrew>	We need to go to more events now that we have business cards. I reckon our paymasters wwon't begrudge us the train fare to Surrey
+
+May 20 15:13:49 <tristan2468>	so much for only 30 people gonna turn up!
+
+May 20 15:13:50 <M-Saunders>	towy71: towy71!!!!!!!!
+
+May 20 15:14:12 <DoubleDiode>	One of Pauls videos: http://www.tuxradar.com/content/python-pygtk-webkit-20-minutes
+
+May 20 15:14:12 <popey>	LXF_Andrew: shall I drop a mail to you lot from the OggCamp team?
+
+May 20 15:14:23 *	oimon (~mungo@mrcpc69.maths.qmul.ac.uk) has joined #linuxformat
+
+May 20 15:14:24 <M-Saunders>	So who here is a fan of Frontier?
+
+May 20 15:14:29 <EspadaV8>	me
+
+May 20 15:14:32 <M-Saunders>	Yay
+
+May 20 15:14:32 <LXF_Andrew>	Ciao Towy 71
+
+May 20 15:14:34 <degville>	i always prefered elite.
+
+May 20 15:14:38 <cchristiansen>	don't like games..
+
+May 20 15:14:39 <spamsnake>	Never played it, but i would like to
+
+May 20 15:14:40 <EspadaV8>	i posted the link to the opengl version in the comments :)
+
+May 20 15:14:42 <popey>	wow, impressive, it took a whole 14 minutes before M-Saunders mentioned Frontier!
+
+May 20 15:14:43 <M-Saunders>	degville: But you couldn't land on planets
+
+May 20 15:14:51 <BeerW0lf>	Oolite!
+
+May 20 15:14:58 <DoubleDiode>	supertuxcart rules
+
+May 20 15:15:03 <Darth_Tux2328>	Supertux!
+
+May 20 15:15:05 <JonRob>	EspadaV8: i couldn't get it to run - none of us could!
+
+May 20 15:15:09 <towy71>	ciao LXF_Andrew 
+
+May 20 15:15:10 <Twister_Kuriboh>	*cough* what is frontier
+
+May 20 15:15:10 <EspadaV8>	O.O
+
+May 20 15:15:12 <degville>	M-Saunders: i liked inertia surfing in frontier, but hated the undercarriages and the bobble heads.
+
+May 20 15:15:15 *	qwebirc68941 (5166e24f@gateway/web/freenode/ip.81.102.226.79) has joined #linuxformat
+
+May 20 15:15:16 <sbox>	mike its 1,8 with 1386 and amd64
+
+May 20 15:15:16 <hydrantmark>	always preferred Elite myself....
+
+May 20 15:15:17 <bobthebob1234>	SUPERTUX FTW
+
+May 20 15:15:18 <M-Saunders>	Twister_Kuriboh: That's a kickbannable offence
+
+May 20 15:15:19 *	EspadaV8 is shocked
+
+May 20 15:15:20 <M-Saunders>	Refrain
+
+May 20 15:15:20 *	Twister_Kuriboh plays too much tremulous
+
+May 20 15:15:26 <hydrantmark>	will seconf Oolite tho
+
+May 20 15:15:27 <LXF_Andrew>	popey: Yes please, and we'll talk to the boss and see if he'll let us out for the day
+
+May 20 15:15:31 <braintooth>	which frontier?
+
+May 20 15:15:35 <EspadaV8>	it's always been my goto for frontier
+
+May 20 15:15:37 <Twister_Kuriboh>	no serriously, i don't know about frontier
+
+May 20 15:15:41 <popey>	LXF_Andrew: awesome. there will be cake *
+
+May 20 15:15:47 <popey>	* Note: There may not be cake.
+
+May 20 15:15:48 *	patsrs (1000@wire152019113067.med.unc.edu) has joined #linuxformat
+
+May 20 15:15:49 <JonTheNiceGuy>	Frontier was a space sim
+
+May 20 15:15:49 <LXF_Andrew>	Imperial Courier FTW
+
+May 20 15:15:50 *	bobthebob1234 likes cake
+
+May 20 15:15:55 <M-Saunders>	Twister_Kuriboh: Google Frontier Elite II, play and see you in 25 years
+
+May 20 15:15:56 <JonTheNiceGuy>	Mmmm cake
+
+May 20 15:16:11 <JonRob>	M-Saunders - what was that error we got with glfrontier?
+
+May 20 15:16:11 <M-Saunders>	So Linux then
+
+May 20 15:16:16 <degville>	Twister_Kuriboh: termulous is good. not looked at it in a while... are there still many people playing it?
+
+May 20 15:16:19 <davmor2>	M-Saunders: as a lover of assembly for a challenge why not run minuetOS or KolibriOS for a week.
+
+May 20 15:16:22 <M-Saunders>	JonRob: Some OpenGL nonsense
+
+May 20 15:16:25 <LXF_Andrew>	Did anyone see Rhod Gilbert's tattoo of a piece of battenburg on a cushion, on fire?
+
+May 20 15:16:27 <towy71>	unity sucks
+
+May 20 15:16:28 <braintooth>	Yes, Linux
+
+May 20 15:16:33 <sbox>	mike its 1,8 with 1386 and amd64
+
+May 20 15:16:33 <M-Saunders>	davmor2: That's a very good idea!
+
+May 20 15:16:37 <LXF_Andrew>	Yes it does Towy71
+
+May 20 15:16:38 <Effy>	Otra vez, alguien mas de latinoamerica?
+
+May 20 15:16:45 <M-Saunders>	sbox: What's what now? 1,8 whats?
+
+May 20 15:16:50 *	qwebirc52138 (5acb24a5@gateway/web/freenode/ip.90.203.36.165) has joined #linuxformat
+
+May 20 15:16:58 <degville>	glfrontier works for me but crashes after the intro text.
+
+May 20 15:17:00 <towy71>	thankfully gnome 2 is still around
+
+May 20 15:17:01 <M-Saunders>	Unity is pretty buggy in my experience
+
+May 20 15:17:10 *	qwebirc83969 (50d4b71f@gateway/web/freenode/ip.80.212.183.31) has joined #linuxformat
+
+May 20 15:17:11 <LXF_Andrew>	I abandoned it this morning after it kept making LibreOFfice crash. What don't you like about it?
+
+May 20 15:17:13 <nucc1>	gnome3 ftw
+
+May 20 15:17:20 <Darth_Tux2328>	go Gnome 3
+
+May 20 15:17:20 <sbox>	mike aptosid is 1,8 gig with 1386 and amd64
+
+May 20 15:17:23 <spamsnake>	I tried Unity, I didn't like it, switched to GNOME Shell
+
+May 20 15:17:23 <bobthebob1234>	stop the unity bashing, its great on my touch screen netbook
+
+May 20 15:17:24 *	Twister_Kuriboh agrees with towy71 about gnome2 still being around
+
+May 20 15:17:25 <braintooth>	estudio espanol por no vivo Mexico.
+
+May 20 15:17:26 <Theodore>	Good evening dear friends.. My name is Theodoros Tsioupros, I am a new subscriber from Greece. My subscription starts with this issue (June 2011). I am very glad to be here for the first time.
+
+May 20 15:17:32 <M-Saunders>	sbox: Oh right, sorry, forgot about that conversation!
+
+May 20 15:17:39 <jellyman>	M-Saunder Unity is the reason I went to KDE.
+
+May 20 15:17:39 <Twister_Kuriboh>	ok then, hello
+
+May 20 15:17:45 <M-Saunders>	sbox: That's cool. I'll see if we have space in the next few mags
+
+May 20 15:17:50 <JonRob>	hello Theodore :-)
+
+May 20 15:17:51 <nucc1>	LXF_Andrew, you abandoned libreoffice?
+
+May 20 15:17:52 <cchristiansen>	jellyman++
+
+May 20 15:17:55 <JonRob>	nice to see another new face
+
+May 20 15:17:58 *	qwebirc68941 has quit (Client Quit)
+
+May 20 15:17:59 <Effy>	braintooth: con eso tenemos
+
+May 20 15:18:01 <Twister_Kuriboh>	jellyman: lol that's worse (my opinion)
+
+May 20 15:18:06 <EspadaV8>	i'm no gnome user, so i might've missed things, but has there been any talk of forking gnome 2 to carry it on?
+
+May 20 15:18:20 <Darth_Tux2328>	yeah, mint is continuing to use 2
+
+May 20 15:18:20 <Twister_Kuriboh>	hmm... idk
+
+May 20 15:18:22 *	geekyBodhi is now known as MayankSharma
+
+May 20 15:18:22 <nucc1>	EspadaV8, why are you interested?
+
+May 20 15:18:31 <BeerW0lf>	Unity looks like something to be used with a touch screen. I prefer the classic desktop experience with mouse and keyboard.
+
+May 20 15:18:34 <M-Saunders>	Why so much Spanish? Können wir nicht vielleicht a bisserl auf Deutsch plaudern?
+
+May 20 15:18:34 <sbox>	mike cool! then you should also look at the epic command: ceni
+
+May 20 15:18:35 <EspadaV8>	i know people said they were going to do that with kde3 but nothing happened
+
+May 20 15:18:36 <popey>	I expect a fair number of people will "defect" to other distros / desktops as a result of Unity in 11.04. I also predict many will come back at 11.10 or 12.04. (perhaps sounds arrogant, not meant to be)
+
+May 20 15:18:39 <EspadaV8>	nucc1: no, just wondering
+
+May 20 15:18:41 <degville>	Theodore: hello!
+
+May 20 15:18:44 <nucc1>	popey, i defected to fedora
+
+May 20 15:18:44 <scott_n>	Mint will be using gnome 2 for mint 11 but will probably go to gnome 3 for mint 12
+
+May 20 15:18:47 <JonRob>	EspadaV8 - there was, but it died after a week or two
+
+May 20 15:18:52 <qwebirc52138>	Unity is "Aimed at the moms and Dads" according to Jono Bacon
+
+May 20 15:18:56 <Twister_Kuriboh>	yep, one of the reasons that i defected to arch linux (um kinda)
+
+May 20 15:18:57 <popey>	nucc1: specifically because of Unity
+
+May 20 15:18:57 <cchristiansen>	M-Saunders: Na klar können wir ;)
+
+May 20 15:19:01 <nucc1>	popey, yes.
+
+May 20 15:19:02 <EspadaV8>	JonRob: lol, motivation fail
+
+May 20 15:19:05 <popey>	qwebirc52138: pffft, what does that loser jono know? :D
+
+May 20 15:19:07 <LXF_Andrew>	nucc1: No, Unity. I've never used LibreOffice since I discovered AbiWord back in the day. Even now I have a much more powerful machine I'll stick with AbiWord
+
+May 20 15:19:08 <M-Saunders>	cchristiansen: Prima! Do wohnst in Deutschland oder?
+
+May 20 15:19:09 <bobthebob1234>	BeerW0lf: It is great on a touch screen, everything else it is crap on
+
+May 20 15:19:11 <degville>	unity and gnome shell are both broken thanks to dist-upgrade on my box.
+
+May 20 15:19:21 <Darth_Tux2328>	Do any distros use Gnome 3 by default now??
+
+May 20 15:19:23 <cchristiansen>	M-Saunders: Nein, Yorkshire :P
+
+May 20 15:19:27 <scott_n>	fedora 15
+
+May 20 15:19:32 <M-Saunders>	cchristiansen: Oh, alreet then :-)
+
+May 20 15:19:32 <JonRob>	EspadaV8 - think he just realised it was a *mad* amount of work, especially when there's xfce ;_
+
+May 20 15:19:33 <Darth_Tux2328>	cool!
+
+May 20 15:19:34 <qwebirc52138>	I'm sticking with 10.04LTS for a while
+
+May 20 15:19:34 <towy71>	ich habe nur baustelle duetsch
+
+May 20 15:19:35 <JonRob>	;)
+
+May 20 15:19:43 <spamsnake>	I tried using GNOME shell on Ubuntu, but it just ended up breaking everything when I upgraded
+
+May 20 15:19:52 <towy71>	dos cervesa por favor
+
+May 20 15:19:53 <bobthebob1234>	Stop with the german!
+
+May 20 15:19:53 <AndreasFrom>	Darth_Tux2328: Fedora 15 when it comes out
+
+May 20 15:19:55 <nucc1>	LXF_Andrew, ah, abiword is a miserable clone of MS Office 2000. Libreoffice is very stable and fully functional for me now.
+
+May 20 15:19:56 <popey>	spamsnake: yeah, we put big warnings about that out
+
+May 20 15:20:02 <M-Saunders>	My Ubuntu 11.04 upgrade totally wrecked my installation
+
+May 20 15:20:03 <Twister_Kuriboh>	sigh... that's why i use xfce (or lxde)
+
+May 20 15:20:05 <M-Saunders>	Thanks Ubuntu!
+
+May 20 15:20:09 <Darth_Tux2328>	thanks
+
+May 20 15:20:10 <scott_n>	Fedora 15 comes out n Tuesday
+
+May 20 15:20:12 <cchristiansen>	M-Saunders: Lived in Germany last year though so..
+
+May 20 15:20:13 <qwebirc52138>	GNOME 3 is still buggy under Ubuntu
+
+May 20 15:20:15 <towy71>	is my total espanol
+
+May 20 15:20:18 <M-Saunders>	cchristiansen: Cool, whereabouts?
+
+May 20 15:20:18 <popey>	spamsnake: unity is built on GNOME 2, no getting away from that, in 11.10 its built on GNOME 3 so that problem goes away.
+
+May 20 15:20:18 <Twister_Kuriboh>	um, lol
+
+May 20 15:20:32 <thameslink>	I installed 11.04 to have a play about with unity, it's not as got as the old unr launcher and it keeps saying my battery maybe broken
+
+May 20 15:20:33 <cchristiansen>	M-Saunders: Duisburg, near Düsseldorf
+
+May 20 15:20:40 <M-Saunders>	cchristiansen: Aha
+
+May 20 15:20:40 <EspadaV8>	rolling releases ftw :-)
+
+May 20 15:20:45 <spamsnake>	popey: That'll be cool
+
+May 20 15:20:46 *	ray__ has quit (Quit: Leaving)
+
+May 20 15:20:47 <M-Saunders>	cchristiansen: I was in Munich for a month last year. Lovely place
+
+May 20 15:20:48 <Twister_Kuriboh>	hmm... too bad he couldn't talk to fabian of linuxoutlaws (if he was near)
+
+May 20 15:20:54 <towy71>	upgrading ubuntu always seems problematical
+
+May 20 15:21:04 <Twister_Kuriboh>	rolling release ftw!
+
+May 20 15:21:06 <bobthebob1234>	don't do it then
+
+May 20 15:21:08 <cchristiansen>	M-Saunders: I found the germans very friendly when I was there
+
+May 20 15:21:14 <sbox>	listening to 8-bit music and chatting here with irssi, this is life!
+
+May 20 15:21:21 <M-Saunders>	cchristiansen: And quality beer!
+
+May 20 15:21:24 <M-Saunders>	sbox: What music?
+
+May 20 15:21:26 <Theodore>	Is anyone here that would be able to help with a problem with my subscription? Although Future Publishing have told me that issue Jun.2010 was sent to me 15 days ago, I haven't got it yet. Are there any other subscribers with similar problems here? 
+
+May 20 15:21:26 <popey>	\o/ beer
+
+May 20 15:21:30 <popey>	http://drool.popey.com/
+
+May 20 15:21:40 <Effy>	Mas cervezas por favor y tacos tambien
+
+May 20 15:21:44 <Twister_Kuriboh>	sbox: 8-bit music, what music
+
+May 20 15:21:51 <cchristiansen>	M-Saunders: Haha, I'm too young for that though.. well legally anyway
+
+May 20 15:21:54 <LXF_Andrew>	nucc1: Well, it does everything I need, so it works for me. There's no point loading Java Swahili language extensions when all you need is a slightly prettier text editor
+
+May 20 15:21:57 <BeerW0lf>	sbox: irssi is great. You can leavit running in a screen and ssh to it when needed
+
+May 20 15:22:02 <degville>	Theodore: if you email me the details, i'll follow it up this afternoon.
+
+May 20 15:22:04 <JonRob>	so, has anyone tried brewing free beer?
+
+May 20 15:22:06 <M-Saunders>	cchristiansen: Nobody seems to mind in Germany :-)
+
+May 20 15:22:08 <AndreasFrom>	Theodore: I sometimes recieve my mags a month after they're available in the UK
+
+May 20 15:22:12 <M-Saunders>	JonRob: I want to try brewing
+
+May 20 15:22:16 <qwebirc52138>	Anyway, my name is Dave, I'm in Dud-er-Leye in the West Mids, and use Linux for everything including my hobby Amateur Radio
+
+May 20 15:22:19 <Darth_Tux2328>	@Theodore : my magazines often arrive late
+
+May 20 15:22:20 <M-Saunders>	JonRob: But I'm lazy
+
+May 20 15:22:23 <sbox>	got it from a friend many of the songs are from keygenjukebox (awsome site by the way)
+
+May 20 15:22:25 <JonRob>	M-Saunders - yes, office brewing
+
+May 20 15:22:27 <JonRob>	!
+
+May 20 15:22:27 *	k00pa (koopa@pottu.fi) has joined #linuxformat
+
+May 20 15:22:29 <k00pa>	lol
+
+May 20 15:22:30 <Twister_Kuriboh>	hmm... is there an open-source recepie for beer XD
+
+May 20 15:22:31 <k00pa>	->
+
+May 20 15:22:32 *	hoxtonhopper (~trevor@92.27.65.100) has joined #linuxformat
+
+May 20 15:22:39 <braintooth>	Effy: Yo comenzo a aprender dos mes.... ago. (lame, I know)
+
+May 20 15:22:40 <Darth_Tux2328>	I mean, they take a while to arrive
+
+May 20 15:22:46 <LXF_Andrew>	Germans booze on public transport and nobody shouts, swears or vomits. They're proper gronup like
+
+May 20 15:23:01 <jstitch>	braintooth: and where are you from?
+
+May 20 15:23:04 <M-Saunders>	LXF_Andrew: I've just slapped my thigh in appreciation of that remark
+
+May 20 15:23:10 <Twister_Kuriboh>	XD
+
+May 20 15:23:15 <nucc1>	LXF_Andrew, "works for me" is an unassailable argument :). I need an editor with proper support for equations ;) among other things.
+
+May 20 15:23:16 <degville>	JonRob: nope. but i do brew my own when i get a chance. the only problem is i never clean out the barrel, so the one in my garage currently has 6 month old sediment in it.
+
+May 20 15:23:20 *	oimon (~mungo@mrcpc69.maths.qmul.ac.uk) has left #linuxformat
+
+May 20 15:23:26 <Effy>	braintooth: es solo paractica, poco a poco y despues llega de manera natural
+
+May 20 15:23:27 <braintooth>	jstitch: Seattle USA
+
+May 20 15:23:50 *	easling (~easling@125.211.167.249) has left #linuxformat ("Leaving")
+
+May 20 15:23:55 <JonRob>	degville - too cool... i've always wanted to, never had the money to buy the equipment - although i hear there's an exter brewing soc
+
+May 20 15:24:07 <JonRob>	did it taste good?
+
+May 20 15:24:14 <qwebirc52138>	Are there anymore Ham Radio operators here besides myself?
+
+May 20 15:24:17 <popey>	By the way, has to be said M-Saunders / Effy / degville / JonRob - you put a very fun show together. Tuxradar is one of the few podcasts I will listen to first, before others.
+
+May 20 15:24:22 <M-Saunders>	JonRob: Kits are like 20 quid now, aren't they? Although I guess you need the tubs and stuff
+
+May 20 15:24:23 *	JonTheNiceGuy is G7VRI
+
+May 20 15:24:28 <nucc1>	popey, ++
+
+May 20 15:24:28 <M-Saunders>	popey: Thanks!
+
+May 20 15:24:30 <JonRob>	popey - thanks :-)
+
+May 20 15:24:31 <cchristiansen>	Tuxradar is amazing
+
+May 20 15:24:35 <Darth_Tux2328>	yeah, Tuxradar rocks
+
+May 20 15:24:37 <Effy>	popey: muchas gracias
+
+May 20 15:24:37 <qwebirc52138>	I'm M0DCM
+
+May 20 15:24:39 <degville>	JonRob: i got all the stuff from Wilkinsons. they're really cheap!
+
+May 20 15:24:40 <M-Saunders>	Hurray
+
+May 20 15:24:44 <M-Saunders>	Should we do a roadshow?
+
+May 20 15:24:45 <EspadaV8>	++ popey 
+
+May 20 15:24:48 <Twister_Kuriboh>	hmm... try to listen to linux outlaws, but it ends up being to long ;)
+
+May 20 15:24:49 <sbox>	mike It would be awsome if lxf maked an gallery on tuxradar.com where people could post their geeky desktop images!
+
+May 20 15:24:53 <AndreasFrom>	popey +1
+
+May 20 15:24:54 <braintooth>	si, Mi Hija comprede mas y ella es cuatro. :/ Ellas miestro es de El Salvador Mexico y Guatamala.
+
+May 20 15:24:58 <bobthebob1234>	M-Saunders: Yes and come visit wales
+
+May 20 15:25:00 <JonRob>	degville - well, i know what i'm doing end of this month - forget about buying furniture for new flat
+
+May 20 15:25:00 <JonTheNiceGuy>	M-Saunders: Why not do a live show at OggCamp?
+
+May 20 15:25:00 *	Bakerboy has quit (Read error: Connection reset by peer)
+
+May 20 15:25:00 <popey>	Tuxradar - LIVE!
+
+May 20 15:25:01 <JonTheNiceGuy>	:)
+
+May 20 15:25:02 <Effy>	Yes, we start in Mexico
+
+May 20 15:25:05 <EspadaV8>	d/l finishes, stop LO start TR
+
+May 20 15:25:11 <M-Saunders>	bobthebob1234: How do you get to Wales? Do I need a permit?
+
+May 20 15:25:13 <popey>	EspadaV8: haha, exactly!
+
+May 20 15:25:19 <jellyman>	Popey: agreed TuxRadar is the best podcast on the planet :)
+
+May 20 15:25:21 <davmor2>	tuxradar nearly as informative as that other show hey popey ;)
+
+May 20 15:25:26 <LXF_Andrew>	We could play Weston Sur Mere
+
+May 20 15:25:29 <bobthebob1234>	no just pop over, but mind the sheep
+
+May 20 15:25:31 <popey>	download of Tuxradar finishes, stop reading the kids a bedtime story, go listen to the show!
+
+May 20 15:25:33 <EspadaV8>	shhh, don't tell fabsh or methodan
+
+May 20 15:25:34 <degville>	let's run a pub!
+
+May 20 15:25:35 <braintooth>	Agree with popey, lol the podcast
+
+May 20 15:25:37 <M-Saunders>	sbox: That's a good idea. Maybe after we've featured them in the mag!
+
+May 20 15:25:38 <popey>	dont tell my wife
+
+May 20 15:25:40 <EspadaV8>	hahaha
+
+May 20 15:25:43 <braintooth>	love, not lol
+
+May 20 15:25:43 <sbox>	TUXRADAR IS THE BEST EVEN IN CAPS LOCK 
+
+May 20 15:25:56 <M-Saunders>	CAPS LOCK FOR TEH WINZ0RS
+
+May 20 15:25:58 <popey>	I totally misread that "CAPS LOCK" then
+
+May 20 15:26:07 <DoubleDiode>	How about a vodcast?
+
+May 20 15:26:12 <EspadaV8>	tbh, i think that might also be because it's every 2 weeks, so i only get half the TR lovin'
+
+May 20 15:26:14 <M-Saunders>	DoubleDiode: I'm not pretty enough
+
+May 20 15:26:16 <popey>	davmor2: there are no other shows. tuxradar is the only show ;)
+
+May 20 15:26:38 <JonTheNiceGuy>	DoubleDiode: I don't have time to watch a vidcast - can only listen to shows
+
+May 20 15:26:50 *	ubuntu has quit (Quit: Leaving)
+
+May 20 15:26:51 <M-Saunders>	Has David Braben joined yet?
+
+May 20 15:27:01 <JonTheNiceGuy>	popey: *other shows may exist
+
+May 20 15:27:01 <JonTheNiceGuy>	:)
+
+May 20 15:27:14 <bobthebob1234>	why are all my winegums green >:(
+
+May 20 15:27:14 <JonTheNiceGuy>	qwebirc52138: Have you tried echolink yet?
+
+May 20 15:27:17 *	davmor2 takes a screenshot of the screen to remind popey of this day :D
+
+May 20 15:27:21 <M-Saunders>	bobthebob1234: It's a conspiracy
+
+May 20 15:27:21 <EspadaV8>	don't seen the point of video casts, can't watch them while driving, walking across the road, taking a wizz
+
+May 20 15:27:28 <spamsnake>	Has anyone mentioned RiscOS yet?
+
+May 20 15:27:32 <popey>	*Note: I lie.
+
+May 20 15:27:33 <bobthebob1234>	Thought so
+
+May 20 15:27:33 <JonTheNiceGuy>	lol
+
+May 20 15:27:36 <M-Saunders>	EspadaV8: Do you do all those things at the same time?
+
+May 20 15:27:41 <EspadaV8>	Acorn's <3<3<3<3
+
+May 20 15:27:42 <M-Saunders>	spamsnake: I plan to make a RISC OS theme for Gtk 3
+
+May 20 15:27:46 <DoubleDiode>	and the video codec to use......
+
+May 20 15:28:02 *	MikeN_ (~chich_adm@81-86-44-60.dsl.pipex.com) has joined #linuxformat
+
+May 20 15:28:07 <popey>	realmedia, its the video codec of the future
+
+May 20 15:28:09 <LXF_Andrew>	We were thinking abut hiving a section off from the main podcast to fill the gap between shows, but it would only be 5 minutes worth or so. Does that sound good, or would it be annoying?
+
+May 20 15:28:11 <spamsnake>	M-Saunders: Awesome!
+
+May 20 15:28:11 <popey>	apparently
+
+May 20 15:28:15 <M-Saunders>	popey: Yeah. And Beanz is the currency!
+
+May 20 15:28:18 <sbox>	PULSEAUDIO FTW (flamewar incomming)
+
+May 20 15:28:20 <EspadaV8>	M-Saunders: I should add that to my list of things to learn
+
+May 20 15:28:31 <popey>	LXF_Andrew: a 5 minute "TipCast" is something I've been meaning to do, but never got round tuit
+
+May 20 15:28:38 <M-Saunders>	sbox: PulseAudio makes me cry in my sleep
+
+May 20 15:28:38 <popey>	I think it could work well
+
+May 20 15:28:41 *	kam (~chatzilla@user-0c90t1m.cable.mindspring.com) has joined #linuxformat
+
+May 20 15:28:41 <Darth_Tux2328>	Andrew: what do you mean?
+
+May 20 15:28:42 <JonTheNiceGuy>	M-Saunders: Any thoughts on bitcoin?
+
+May 20 15:28:42 <Twister_Kuriboh>	what flame war about pluseaudio
+
+May 20 15:28:44 *	qwebirc99082 (521162cd@gateway/web/freenode/ip.82.17.98.205) has joined #linuxformat
+
+May 20 15:28:46 <popey>	and easy to produce if you batch up the recording
+
+May 20 15:28:46 <EspadaV8>	anyone here have an acorn emulator (RiscOS 3.1)
+
+May 20 15:28:56 *	hydrantmark thinks its already to hot to even bother donning the asbestos for any incoming flamewars
+
+May 20 15:28:56 <MikeN_>	Hello Linux Format people! :-)
+
+May 20 15:29:01 <EspadaV8>	there's a game i _need_ to play
+
+May 20 15:29:04 <M-Saunders>	JonTheNiceGuy: Our JonRob knows a fair bit about it. Looks interesting, but I don't know how economically viable it is
+
+May 20 15:29:07 <popey>	JonTheNiceGuy: http://dl.dropbox.com/u/3832397/Photos/May%202011/IMG_20110520_150522.jpg <- 2K worth of kit a friend bought for bitcoin mining!
+
+May 20 15:29:09 <jstitch>	is anonymous penguin joining in? XD
+
+May 20 15:29:14 *	mingtm has quit (Quit: Leaving)
+
+May 20 15:29:17 <MikeN_>	Just wanted to drop by and say I love the magazine and the podcast.
+
+May 20 15:29:25 <EspadaV8>	http://www.youtube.com/watch?v=jOwhIlMoZZs - Nevryon 
+
+May 20 15:29:28 <M-Saunders>	MikeN_: Cool, ta
+
+May 20 15:29:31 <thameslink>	I'd like to thank you lot and the other staff at LXF since I decided to try and get into linux 3 years ago you've provided the only consistenty engaging material I've found. Big-up yourselves.
+
+May 20 15:29:31 *	qwebirc99082 has quit (Client Quit)
+
+May 20 15:29:32 <JonTheNiceGuy>	popey: HOLY S**T
+
+May 20 15:29:33 <sbox>	kuriboh seems like people dont like to flamewar
+
+May 20 15:29:50 <sbox>	jstitch of course
+
+May 20 15:29:52 <Twister_Kuriboh>	;)
+
+May 20 15:29:55 <felissilvestris>	damn, got to go, but thanks again for the podcast and msa, it's always excellent
+
+May 20 15:30:03 <M-Saunders>	thameslink: Thank you, we appreciate that!
+
+May 20 15:30:03 <Effy>	NikeN: hola y gracias
+
+May 20 15:30:05 <JonTheNiceGuy>	+1 to thameslink's comment
+
+May 20 15:30:07 <EspadaV8>	popey: o.O why?
+
+May 20 15:30:09 <Twister_Kuriboh>	why would we flamewar about something like pulseaudio?
+
+May 20 15:30:10 *	qwebirc52138 has quit (Quit: Page closed)
+
+May 20 15:30:13 <LXF_Andrew>	popey: Exactly, we'd do all the recording and editing in one go. Believe it or not, but it takes quite a lot of Graham's time o edit out the injunction breakages, swearing and gratuitous German
+
+May 20 15:30:21 <EspadaV8>	how many bitcoins would you need to recoup that
+
+May 20 15:30:28 <Twister_Kuriboh>	swearing >.>
+
+May 20 15:30:32 <felissilvestris>	sorry, cat on keyboard, read magazine for msa, wotever that is
+
+May 20 15:30:36 <M-Saunders>	Twister_Kuriboh: Because it sucks, hates everything and makes kittens cry
+
+May 20 15:30:41 *	felissilvestris has quit (Quit: Leaving)
+
+May 20 15:30:45 <DoubleDiode>	audacity I assume?
+
+May 20 15:30:46 <popey>	LXF_Andrew: Oh, I appreciate that! We stopped editing at all on our podcast. We record live and it goes out the next day with no edits
+
+May 20 15:30:47 <M-Saunders>	Twister_Kuriboh: And has massive latency and doesn't work half of the time
+
+May 20 15:30:49 *	marxjohnson (~mark@2.102.249.86) has joined #linuxformat
+
+May 20 15:31:03 <popey>	LXF_Andrew: a 5 min tip show might go down very nicely, people could submit their own tips and you just record them
+
+May 20 15:31:11 <JonTheNiceGuy>	That's a point popey, what was the "backing up lorry" in the last UUPC show?
+
+May 20 15:31:17 <marxjohnson>	Evening all
+
+May 20 15:31:17 <popey>	LXF_Andrew: the only problem is a lot of tips are command line based, and you really don't want to be reading those out
+
+May 20 15:31:19 <JonTheNiceGuy>	It sounded like a microwave
+
+May 20 15:31:22 <popey>	JonTheNiceGuy: that was my dishwasher
+
+May 20 15:31:36 <cchristiansen>	LXF_Andres: Or the top program for the fortnight
+
+May 20 15:31:40 <Twister_Kuriboh>	popey: why not read them out?
+
+May 20 15:31:43 *	felimwhiteley got stuck in a meeting.. hopefully not missed it all :s
+
+May 20 15:31:45 <degville>	MikeN_, thameslink: thanks! we print these things out and read them out to each other when we type 'sudo apt-get dist-upgrade'
+
+May 20 15:31:50 <JonTheNiceGuy>	LOL
+
+May 20 15:31:56 <M-Saunders>	felimwhiteley: You missed the bit where we handed out free money
+
+May 20 15:32:00 <M-Saunders>	felimwhiteley: Never mind though!
+
+May 20 15:32:00 <Twister_Kuriboh>	felim: you didn't miss too much
+
+May 20 15:32:07 <popey>	Twister_Kuriboh: try reading aloud a command with lots of pipes and ` ' and ". people will make mistakes, and it's very dry to listen to
+
+May 20 15:32:10 <EspadaV8>	oooh, LXF_Andrew you should have a NSFW version with that included :)
+
+May 20 15:32:10 <felimwhiteley>	M-Saunders: Son of a diddly
+
+May 20 15:32:21 <M-Saunders>	felimwhiteley: Oh, and the secret to immortality
+
+May 20 15:32:34 <M-Saunders>	But back to KDE vs Gnome
+
+May 20 15:32:37 <M-Saunders>	I say Xfce wins
+
+May 20 15:32:43 <braintooth>	agreed
+
+May 20 15:32:44 <popey>	Unity!
+
+May 20 15:32:44 <Darth_Tux2328>	Gnome 3
+
+May 20 15:32:45 <towy71>	lxde
+
+May 20 15:32:47 <popey>	heh
+
+May 20 15:32:50 <jellyman>	KDE
+
+May 20 15:32:50 <M-Saunders>	TekWM
+
+May 20 15:32:52 <bobthebob1234>	they are all rubbish we need something new
+
+May 20 15:32:53 <cchristiansen>	M-Saunders: *sighs* we sorted that out already
+
+May 20 15:32:55 <spamsnake>	Gnome 3
+
+May 20 15:32:55 <Twister_Kuriboh>	um... both lxde and xfce
+
+May 20 15:32:55 <hydrantmark>	Openbox
+
+May 20 15:33:03 <M-Saunders>	MWM
+
+May 20 15:33:04 <popey>	Oh yeah, Lubuntu is on course to become an official Ubuntu derivative, which is cool
+
+May 20 15:33:04 <sbox>	kde 4 here
+
+May 20 15:33:04 <cchristiansen>	obviously KDE
+
+May 20 15:33:04 <AndreasFrom>	just give me something GTK-based
+
+May 20 15:33:06 <LXF_Andrew>	popey: Aye, it would be dry listening alright. We'll add that to the ideas pile in the corner of LXF Towers
+
+May 20 15:33:17 <sbox>	and i use fluxbox to
+
+May 20 15:33:24 <Twister_Kuriboh>	hmm... enlightenment hasn't been mentioned
+
+May 20 15:33:34 <Darth_Tux2328>	nor has JWM
+
+May 20 15:33:41 <sbox>	what about ratpoison?
+
+May 20 15:33:42 <M-Saunders>	Twister_Kuriboh: That's because it has been version 0.00000000017 for a BILLION years
+
+May 20 15:33:45 <marxjohnson>	Twister_Kuriboh: maybe there's a reason for that;-)
+
+May 20 15:33:47 <LXF_Andrew>	Gnome 2.x for the epic boringness. 
+
+May 20 15:33:49 <degville>	i find pulseaudio is slightly over-engineered for its purpose.
+
+May 20 15:33:50 <hydrantmark>	nor Pink Ponies.... naturally
+
+May 20 15:33:51 <cchristiansen>	Twister_Kuriboh: enlightenment used to be cool, no longer
+
+May 20 15:33:54 <M-Saunders>	Twister_Kuriboh: If Rasterman would sort his stuff out and get 1.0 out of the door, that'd be better
+
+May 20 15:33:56 <Darth_Tux2328>	but still,Gnome 3 or Openbox
+
+May 20 15:34:00 <maxwildcat>	window maker
+
+May 20 15:34:01 <thameslink>	I like openbox
+
+May 20 15:34:01 <maxwildcat>	:p
+
+May 20 15:34:02 <popey>	Go CDE!
+
+May 20 15:34:07 <braintooth>	or icewm
+
+May 20 15:34:10 <spamsnake>	Someone should write an IRC client for MikeOS
+
+May 20 15:34:14 <maxwildcat>	enlightenment was cool.. is it still alive ?
+
+May 20 15:34:16 <bobthebob1234>	lol
+
+May 20 15:34:20 <M-Saunders>	Window Maker rules, but is quite old now too
+
+May 20 15:34:25 <M-Saunders>	spamsnake: And a TCP/IP stack first though
+
+May 20 15:34:27 <maxwildcat>	still running it 
+
+May 20 15:34:37 <degville>	MikeOS is an IRC client with Mike's soul being the only server.
+
+May 20 15:34:39 <spamsnake>	M-Saunders: Indeed, I was just thinking that
+
+May 20 15:34:49 <spamsnake>	lol
+
+May 20 15:34:58 <marxjohnson>	M-Saunders: use the BSD one, everyone else seems to
+
+May 20 15:35:02 <M-Saunders>	degville: Can I use that as the official MikeOS slogan?
+
+May 20 15:35:09 <braintooth>	maxxwildcat: I hear a bit about enlightenment every now and then but it never seems to amount to much
+
+May 20 15:35:11 <LXF_Andrew>	MikeOS doesn't have any networking yet, so there's 100% no risk of 'computer viruseseseiiii'
+
+May 20 15:35:16 <maxwildcat>	M-Saunders: (window maker is awesome on a remote machine you VNC to on a slow connection )
+
+May 20 15:35:35 *	jsm2625 (~john@host86-160-26-61.range86-160.btcentralplus.com) has joined #linuxformat
+
+May 20 15:35:36 <Twister_Kuriboh>	unless the viruses are distributed on a usb (unlikely)
+
+May 20 15:35:44 <jstitch>	maxwildcat : agree!
+
+May 20 15:35:48 <AndreasFrom>	or a floppy
+
+May 20 15:35:51 <spamsnake>	Does MikeOS hae usb support?
+
+May 20 15:35:52 *	Patrick (~patrick@0x5ebd3114.terminal.tdcmobil.dk) has joined #linuxformat
+
+May 20 15:36:01 <LXF_Andrew>	Or direct into Mike's soul
+
+May 20 15:36:02 <cchristiansen>	Does MikeOS have floppy support?
+
+May 20 15:36:12 <Darth_Tux2328>	Is MikeOS based on anything?
+
+May 20 15:36:16 <popey>	Wait a minute, have the LXF crew been to the pub before joining IRC?
+
+May 20 15:36:18 *	Patrick is now known as Guest97786
+
+May 20 15:36:20 <popey>	And if not, why not?
+
+May 20 15:36:23 <AndreasFrom>	does MikeOS exist?
+
+May 20 15:36:27 <Darth_Tux2328>	LFS?
+
+May 20 15:36:39 <marxjohnson>	AndreasFrom: I was just thinking that - it could all be a massive hoax
+
+May 20 15:36:47 <Twister_Kuriboh>	LFS: Linux from scratch
+
+May 20 15:36:50 <marxjohnson>	for a given value of massive
+
+May 20 15:37:01 <LXF_Andrew>	I don't think so. Mike meant it to be a learning exercise, so the point isn't to be the biggest or the best, just the best-commented
+
+May 20 15:37:05 <Darth_Tux2328>	but is MikeOS from LFS?
+
+May 20 15:37:10 <MayankSharma>	AndreasFrom, http://mikeos.berlios.de
+
+May 20 15:37:12 <M-Saunders>	Darth_Tux2328: No
+
+May 20 15:37:14 <LXF_Andrew>	No, It's not even Linux
+
+May 20 15:37:16 <M-Saunders>	Darth_Tux2328: http://mikeos.berlios.de
+
+May 20 15:37:23 <maxwildcat>	is mikeOS written in python where you simply import anything from the meaning of life in the universe to girls with great big t... 
+
+May 20 15:37:23 <Darth_Tux2328>	! OK
+
+May 20 15:37:25 <Twister_Kuriboh>	it's a live cd with tools to aid in the developing of a linux distrobution (with the linux from scratch pdf)
+
+May 20 15:37:46 <M-Saunders>	maxwildcat: Great big tarantulas?
+
+May 20 15:37:54 <Twister_Kuriboh>	lol
+
+May 20 15:37:58 *	jemark has quit (Remote host closed the connection)
+
+May 20 15:38:04 <M-Saunders>	jemark fail
+
+May 20 15:38:07 <Darth_Tux2328>	M_Saunders : Awesome!
+
+May 20 15:38:15 <Twister_Kuriboh>	i thought the meaning of life was 42 XD
+
+May 20 15:38:18 <M-Saunders>	So X vs Wayland
+
+May 20 15:38:19 <LXF_Andrew>	Hi Mayank!
+
+May 20 15:38:24 <JonTheNiceGuy>	OMG. It's a real distro. I thought it was a hoax
+
+May 20 15:38:30 <JonTheNiceGuy>	s/distro/os/
+
+May 20 15:38:31 <Darth_Tux2328>	so cool
+
+May 20 15:38:32 <Twister_Kuriboh>	umm... combination of both?
+
+May 20 15:38:36 <thameslink>	ohhh I tried to LFS again the other day and failed failed failed at the glibc sanity checks
+
+May 20 15:38:40 <M-Saunders>	JonTheNiceGuy: Damn right
+
+May 20 15:38:43 <AndreasFrom>	i agree with Twister_Kuriboh 
+
+May 20 15:38:43 <cchristiansen>	Boring, I say Chrome vs Firefox would be a greater flamewar
+
+May 20 15:38:44 <degville>	onTheNiceGuy: you can't hear the laughter in the office.
+
+May 20 15:38:49 <MayankSharma>	Hi LXF_Andrew (and everyone else!)
+
+May 20 15:38:55 <M-Saunders>	cchristiansen: Links wins
+
+May 20 15:38:57 *	mfraz74 (mfraser@2.26.225.121) has joined #linuxformat
+
+May 20 15:38:58 <braintooth>	who has used Wayland?
+
+May 20 15:39:03 <maxwildcat>	Wait what .. ? its real ?
+
+May 20 15:39:03 <JonTheNiceGuy>	degville: I try my best
+
+May 20 15:39:04 <MikeN_>	Windows vs. Linux?
+
+May 20 15:39:06 <M-Saunders>	braintooth: Presumably The Shut himself
+
+May 20 15:39:08 <M-Saunders>	And that's it
+
+May 20 15:39:09 <AndreasFrom>	Chrome vs Firefox? w3m!
+
+May 20 15:39:19 <Twister_Kuriboh>	um... no win vs lin comparisions
+
+May 20 15:39:19 <Darth_Tux2328>	Firefox!
+
+May 20 15:39:19 <Effy>	Tengo mucho trabajo en la revista, see you later chaps, saludos y hasta luego!
+
+May 20 15:39:20 <M-Saunders>	Amaya!
+
+May 20 15:39:24 <braintooth>	I guess
+
+May 20 15:39:26 <LXF_Andrew>	: JonTheNiceGuy We're still trying to think of a quarduply recursive acronym to beat HURD
+
+May 20 15:39:35 <jstitch>	see ya Effy
+
+May 20 15:39:43 <Darth_Tux2328>	what does HURD stand for?
+
+May 20 15:39:44 <Effy>	adios
+
+May 20 15:39:45 <Darth_Tux2328>	ciao Effy
+
+May 20 15:39:48 <M-Saunders>	LXF_Andrew: Why are you such a HURD fan?
+
+May 20 15:39:48 <cchristiansen>	Bye Effy
+
+May 20 15:39:49 <MikeN_>	I'm having to use Irssi on Cygwin on Windows 7 at the moment. No Linux machine here at work. :-(
+
+May 20 15:39:52 <jellyman>	See ya Effy :)
+
+May 20 15:39:57 *	Twister_Kuriboh also looks at clock and gasps realising he needs to go
+
+May 20 15:39:57 <M-Saunders>	Effy is firec
+
+May 20 15:39:58 <degville>	ciao Effy. have a good weekend.
+
+May 20 15:39:59 <M-Saunders>	fired
+
+May 20 15:40:05 <jstitch>	lol
+
+May 20 15:40:08 <braintooth>	lol
+
+May 20 15:40:08 *	Effy has quit (Quit: Leaving)
+
+May 20 15:40:12 <M-Saunders>	See
+
+May 20 15:40:13 <felimwhiteley>	splitter
+
+May 20 15:40:15 *	Twister_Kuriboh has quit (Quit: Leaving)
+
+May 20 15:40:18 *	popey goes to get his kids from School. Have fun !
+
+May 20 15:40:22 *	popey tickles felimwhiteley on the way out
+
+May 20 15:40:24 <AndreasFrom>	he wasn't fired. he quit!
+
+May 20 15:40:25 <JonTheNiceGuy>	seeya popey 
+
+May 20 15:40:26 <felimwhiteley>	owww
+
+May 20 15:40:30 <degville>	cheers popey!
+
+May 20 15:40:32 <Darth_Tux2328>	ciao
+
+May 20 15:40:33 <spamsnake>	bye popey
+
+May 20 15:40:34 <LXF_Andrew>	IT's Hurd of unix-replacing daemons. But it's also a hird of interfaces representing depth
+
+May 20 15:40:37 <marxjohnson>	bye popeye
+
+May 20 15:40:38 <M-Saunders>	AndreasFrom: Yeah, just to get a healthy severance package
+
+May 20 15:40:45 *	popey glares at marxjohnson 
+
+May 20 15:40:47 <biggles1000>	M-Saunders, with the 'send us your desktop' thing, i'm guessing you only want computers running linux? :P
+
+May 20 15:40:47 *	jemark (~jemark@unaffiliated/jemark) has joined #linuxformat
+
+May 20 15:40:48 <marxjohnson>	:)
+
+May 20 15:40:49 <Darth_Tux2328>	hmmmm
+
+May 20 15:40:57 <felimwhiteley>	popey: is it like glaring in a mirror ? ;)
+
+May 20 15:41:03 <popey>	hah
+
+May 20 15:41:06 <JonTheNiceGuy>	degville: How come you never mentioned CCHits as your discoveries of the fortnight? :)
+
+May 20 15:41:07 *	huw_ (~huw@82-69-74-205.dsl.in-addr.zen.co.uk) has joined #linuxformat
+
+May 20 15:41:08 <M-Saunders>	biggles1000: Why, what've you got? OpenVMS?
+
+May 20 15:41:12 <huw_>	hullo!
+
+May 20 15:41:14 <LXF_Andrew>	Really they'd be better off making it work than sitting around thinking of daft names
+
+May 20 15:41:15 *	scoootr (~androirc@72-160-42-113.dyn.centurytel.net) has joined #linuxformat
+
+May 20 15:41:24 *	Bakerboy (~gordy@host86-175-219-107.wlms-broadband.com) has joined #linuxformat
+
+May 20 15:41:26 *	Received a CTCP VERSION from DoubleDiode
+
+May 20 15:41:26 <M-Saunders>	huw_: Huw!
+
+May 20 15:41:26 *	hudzilla (~hudzilla@184-106-155-136.static.cloud-ips.com) has joined #linuxformat
+
+May 20 15:41:31 <hudzilla>	Hello.
+
+May 20 15:41:32 <sbox>	biggles all desktops running windows will be automatically rejected
+
+May 20 15:41:32 <AndreasFrom>	So, any good native Cube-timers for Linux?
+
+May 20 15:41:33 <biggles1000>	erm... windows 7 mainly, as my computer hates running live cds to install
+
+May 20 15:41:37 <LXF_Andrew>	HUw!
+
+May 20 15:41:40 *	hydrantmark wonders if if there is some unwritten rule of the internet, whereby uttering Pink Ponies...... Naturally, automatically shuts off any ongoing flamewar and pre-supposes the need for Godwin's Law to be invoked 
+
+May 20 15:41:42 <braintooth>	so... is Wayland ready for... anytime?
+
+May 20 15:41:43 <LXF_Andrew>	Afternoon Paul
+
+May 20 15:41:46 <Darth_Tux2328>	who's hudzilla?
+
+May 20 15:41:47 <M-Saunders>	AndreasFrom: www.timecube.com
+
+May 20 15:41:50 <M-Saunders>	AndreasFrom: That's a good cube site
+
+May 20 15:41:53 <Darth_Tux2328>	is Paul here???
+
+May 20 15:41:58 <scoootr>	Paul!! yay
+
+May 20 15:42:05 <cchristiansen>	Paul!
+
+May 20 15:42:13 <davmor2>	M-Saunders: now you have discovered the wonders of this madness known as IRC can we expect to see you guys around more often?
+
+May 20 15:42:14 <AndreasFrom>	M-Saunders: Yeah I use that, qq-timer is good aswell
+
+May 20 15:42:16 <hudzilla>	Can we record a podcast over IRC?
+
+May 20 15:42:17 <felimwhiteley>	LXF_Andrew: loving that cool series of posts on Twitter btw 
+
+May 20 15:42:19 <sbox>	youre back Paul
+
+May 20 15:42:21 <cchristiansen>	Is evilnick coming?
+
+May 20 15:42:21 <sbox>	!
+
+May 20 15:42:28 <LXF_Andrew>	So, Shane Warne then. Unforgivable really that I never made it to a county match while he was [playing for Hamnpshire
+
+May 20 15:42:31 <hudzilla>	sbox: I was never far away. Possibly.
+
+May 20 15:42:36 <degville>	Theodore> 
+
+May 20 15:42:37 <Darth_Tux2328>	Hi Paul
+
+May 20 15:42:46 <jemark>	question: how can I make the flash plugin for firefox 4 make to use pulseaudio?
+
+May 20 15:42:49 <huw_>	i made it! kind of
+
+May 20 15:42:53 <M-Saunders>	LXF_Andrew: I preferred the King of Spain
+
+May 20 15:43:00 <jemark>	it only uses alsa :(
+
+May 20 15:43:06 <M-Saunders>	davmor2: Yeah, I'll try to be around more often
+
+May 20 15:43:19 <AndreasFrom>	How many here solves Rubik's Cubes?
+
+May 20 15:43:23 <M-Saunders>	jemark: I knew a girl called Alsa
+
+May 20 15:43:28 <davmor2>	M-Saunders: You're wrong king of pain by the police is much better
+
+May 20 15:43:35 <huw_>	what have i missed?
+
+May 20 15:43:40 <mfraz74>	How long before we see a write your own IRC client in LXF?
+
+May 20 15:43:48 <JonTheNiceGuy>	degville, JonRob, LXF_Andrew, M-Saunders - Any chance you guys will cover alternatives to Skype subsequent to the Microsoft purchase?
+
+May 20 15:43:48 <cchristiansen>	they did, called chatzilla
+
+May 20 15:43:49 <sbox>	mike how cool is that (alsa)
+
+May 20 15:43:52 <biggles1000>	M-Saunders, i would run linux, but my system specs are too low http://www.sevenforums.com/member.php?u=86059 (mint live cd always freezes, ubuntu has failed on me too many times (declaring the hdd is dead etc.))
+
+May 20 15:43:55 <LXF_Andrew>	felimwhiteley, as you'll know from listening to the podcast, the GNU?Linux naming section of its FAQ is longer than the US constitution. Those people need to get on with their lives
+
+May 20 15:44:00 <M-Saunders>	mfraz74: We did "Write an IRC bot" as a Perl tutorial once, somewhere
+
+May 20 15:44:06 <degville>	JonTheNiceGuy: tbh, i forgot. that was one of the few weeks i actually discovered something. and i've got something for next time too, but after that's i'll try to mention it!
+
+May 20 15:44:12 <JonTheNiceGuy>	LOL
+
+May 20 15:44:16 <hudzilla>	M-Saunders: I should expect it's online.
+
+May 20 15:44:23 <Darth_Tux2328>	biggles1000: use puppy!
+
+May 20 15:44:37 <M-Saunders>	biggles1000: I can't see specs there. Tried Damn Small Linux?
+
+May 20 15:44:48 <felimwhiteley>	LXF_Andrew: heh
+
+May 20 15:44:48 *	diplo (~diplo@135.196.170.119) has joined #linuxformat
+
+May 20 15:44:50 <huw_>	where's Graham? is it degville?
+
+May 20 15:44:53 <M-Saunders>	Yep
+
+May 20 15:45:00 <biggles1000>	i use puppy for one thing. sorting out partitions. i like using an OS with features :P
+
+May 20 15:45:03 <jsm2625>	Are we discussing anything or are we all just shouting at once?
+
+May 20 15:45:11 <AndreasFrom>	huw_: Yeah, like on twitter
+
+May 20 15:45:11 <degville>	AndreasFrom: Paul taught me how to solve it. did a chequer board pattern over Easter. 
+
+May 20 15:45:12 <M-Saunders>	jsm2625: We're discussing Emacs vs Vi
+
+May 20 15:45:14 <huw_>	SHOUT AT ONCE!
+
+May 20 15:45:21 <hudzilla>	jsm2625: Shouting at once is kind of the point of IRC, no? :)
+
+May 20 15:45:27 <bobthebob1234>	3
+
+May 20 15:45:28 <bobthebob1234>	2
+
+May 20 15:45:29 <bobthebob1234>	1
+
+May 20 15:45:31 <bobthebob1234>	SHOUT!!!!
+
+May 20 15:45:35 <AndreasFrom>	degville: nice :) I've gotten addicted to it
+
+May 20 15:45:36 <cchristiansen>	M-Saunders: try sublime text..
+
+May 20 15:45:42 <biggles1000>	basically, its an HP ZV5000 laptop with 512MB RAM (my 2GB machine's motherboard shorted, so it's currently the best i've got0
+
+May 20 15:45:47 <thameslink>	biggles1000: I installed slitaz on a 300mhz PII with 128ram and a 8gig true scsi disk last week it runs pretty well
+
+May 20 15:45:52 <hudzilla>	degville: I think I also made a video about it for our Android challenge.
+
+May 20 15:45:53 <M-Saunders>	I just had lunch with Garry Kasparov. Had a chequered tablecloth. Took him two hours to pass me the salt
+
+May 20 15:46:03 <huw_>	lol
+
+May 20 15:46:06 <felimwhiteley>	bah boom tish
+
+May 20 15:46:10 *	mcnalu (~mcnalu@cpc1-broo3-0-0-cust792.14-2.cable.virginmedia.com) has joined #linuxformat
+
+May 20 15:46:11 <maxwildcat>	hahah :P
+
+May 20 15:46:14 <cchristiansen>	M-Saunders: So you didn't fall for fools mate then
+
+May 20 15:46:21 <degville>	hudzilla: ah yes, i remember! at oscon!
+
+May 20 15:46:31 <hydrantmark>	M-Saunders: lol
+
+May 20 15:46:32 <biggles1000>	oh yeah, i remeber using a slitaz livecd a while back. seemed like a nicer looking puppy, and was quite usable
+
+May 20 15:46:36 <jstitch>	biggles1000: what about arch? and you just install what you need...
+
+May 20 15:46:52 <JonTheNiceGuy>	http://www.youtube.com/watch?v=8eXj97stbG8
+
+May 20 15:46:56 <huw_>	so. Ubuntu. starting to suck, eh, lads? eh? eh? :D
+
+May 20 15:46:58 <LXF_Andrew>	jsm2625, You're right. This must be what shout-into-void people did before we invented Twitter and Facebook
+
+May 20 15:46:59 <biggles1000>	haha :P it used to run arch, but i lost the HDD it was on ;P
+
+May 20 15:47:15 <LXF_Andrew>	huw Damn right.
+
+May 20 15:47:21 <hudzilla>	LXF_Andrew: Indeed before the world wide web itself.
+
+May 20 15:47:29 <huw_>	LXF_Andrew, i noticed what's coming in the next ish - can't wait to read it
+
+May 20 15:47:35 <hudzilla>	LXF_Andrew: Also, was DeathChimp taken as a nick or something? :)
+
+May 20 15:47:43 <davmor2>	M-Saunders, LXF_Andrew, JonRob degville: can we expect a challenge or article on finding the best system repair os out there, for the combination of windows, mac and linux?
+
+May 20 15:47:53 <jsm2625>	Guess I'm too old-fashioned...
+
+May 20 15:48:18 <huw_>	JonRob, welcome to the team by the way - sorry, was going to say that in the podcast comments but forgot. enjoying your contributions :)
+
+May 20 15:48:25 <towy71>	davmor2: ubcd has always worked for me
+
+May 20 15:48:44 <felimwhiteley>	LXF_Andrew M-Saunders degville: Got the latest mag in Ireland (145) really awesome, hadn't got it for a while, kept me sane whilst in hospital :)
+
+May 20 15:48:49 *	frank_duck (~francium_@131.111.65.5) has joined #linuxformat
+
+May 20 15:48:55 <M-Saunders>	felimwhiteley: Glad to hear it!
+
+May 20 15:48:59 <AndreasFrom>	davmor2: Are you Danish?
+
+May 20 15:49:06 <huw_>	where's Effy? not here? :(
+
+May 20 15:49:14 <davmor2>	AndreasFrom: NO!
+
+May 20 15:49:15 <degville>	AndreasFrom: http://www.tuxradar.com/files/cubewin.jpg
+
+May 20 15:49:18 <JonTheNiceGuy>	huw_: He's a slacker and left already
+
+May 20 15:49:20 <AndreasFrom>	huw_: Effy quit...
+
+May 20 15:49:22 <LXF_Andrew>	hudzilla I just though Deathchimp looked stupid in screenshots so I changed my username
+
+May 20 15:49:24 <cchristiansen>	Whose danish?
+
+May 20 15:49:26 <huw_>	bah!
+
+May 20 15:49:28 <biggles1000>	M-Saunders, this is my 'setup', but it runs W7 :P
+
+May 20 15:49:30 <JonRob>	huw_ thanks :-) glad you like the contributions
+
+May 20 15:49:34 *	Darth_Tux2328 has quit (Ping timeout: 252 seconds)
+
+May 20 15:49:37 <biggles1000>	and yes, the screen size differences are a pain
+
+May 20 15:49:38 <JonRob>	even if they're a little out there ;)
+
+May 20 15:49:38 <mcnalu>	hello lxf folks - thanks for the mag plus the podcasts - really enjoy them
+
+May 20 15:49:50 <LXF_Andrew>	huw_, Is that the bit about man and fish fish living together or the distro showdown?
+
+May 20 15:49:52 <M-Saunders>	mcnalu: Excellent, glad you enjoy them!
+
+May 20 15:49:53 <Guest97786>	I'm danish.
+
+May 20 15:49:58 *	JonRob apologies for quietness, but just discovered he's been acknowledged in a book :)
+
+May 20 15:50:03 <M-Saunders>	Guest97786: Do you have any bacon?
+
+May 20 15:50:04 <EspadaV8>	any bitcoiners here then?
+
+May 20 15:50:06 <huw_>	LXF_Andrew, the bit about Ubuntu losing its way :)
+
+May 20 15:50:07 <AndreasFrom>	davmor2 means "HelloMom2" in Danish
+
+May 20 15:50:11 <mcnalu>	yup, i bitcoin
+
+May 20 15:50:13 <felimwhiteley>	M-Saunders: the new addon supplement has some promise too, particularly like the Kwin tutorial.. more KDe pimpage! I'm lokoing at you here degville :P )
+
+May 20 15:50:15 <JonRob>	EspadaV8 - great question! 
+
+May 20 15:50:15 <hudzilla>	LXF_Andrew: Another change for the new regime? Oh well. Where's Evilnick?
+
+May 20 15:50:21 *	zeod (~zeod@cpc5-basf8-2-0-cust215.12-3.cable.virginmedia.com) has left #linuxformat ("Leaving")
+
+May 20 15:50:27 <JonRob>	bitcoin has been discussed in the office recently - seems pretty cool to me
+
+May 20 15:50:28 <cchristiansen>	AndreasFrom: Are you danish then?
+
+May 20 15:50:34 <JonRob>	though i wonder how long it will be around for...
+
+May 20 15:50:35 *	qwebirc83969 has quit (Quit: Page closed)
+
+May 20 15:50:38 <EspadaV8>	i've just got it installed and now i have a hot and noisy laptop
+
+May 20 15:50:40 <AndreasFrom>	degville: nice, the stickers are as worn out as on mine. God damn stickers!
+
+May 20 15:50:41 <EspadaV8>	:-S
+
+May 20 15:50:51 <AndreasFrom>	cchristiansen: Yeah I am :)
+
+May 20 15:51:05 <M-Saunders>	So what countries do we have represented here then?
+
+May 20 15:51:11 <mcnalu>	i'm getting my head round bitcoinj, easier to understand that the original c++ client, for me at least
+
+May 20 15:51:15 <jsm2625>	Liked nicks tutorial, actually learnt something
+
+May 20 15:51:15 <huw_>	M-Saunders, Wales i guess
+
+May 20 15:51:15 <AndreasFrom>	Denmark here :)
+
+May 20 15:51:15 <M-Saunders>	Obviously UK, Denmark and Mexico
+
+May 20 15:51:20 <M-Saunders>	Any more?
+
+May 20 15:51:21 <MayankSharma>	awesome JonRob! Which book?
+
+May 20 15:51:21 <degville>	felimwhiteley: i've spent the week messing around with kate's snippets... there is zero documentation, yet it's a really powerful feature. i really wish they'd write these things down.
+
+May 20 15:51:21 <EspadaV8>	i don't think i really get it :-S
+
+May 20 15:51:23 <jellyman>	Australia.
+
+May 20 15:51:24 <cchristiansen>	AndreasFrom: Det er god at se en person os fra Danmark!
+
+May 20 15:51:28 <hudzilla>	M-Saunders: that's not likely to start a flamewar - I didn't come here for namby-pamby questions! ;)
+
+May 20 15:51:34 <EspadaV8>	M-Saunders: australis
+
+May 20 15:51:34 <mcnalu>	scotland
+
+May 20 15:51:35 <felimwhiteley>	M-Saunders: Ireland.. the currnet land of luckless charms and economic disaster ;)
+
+May 20 15:51:38 <EspadaV8>	*australia\
+
+May 20 15:51:41 <biggles1000>	oops. i'm pretty sure that either ctrl or c are dodgy on this keyboard, as they've been faiing all day :/ anyway, M-Saunders, here's the link http://twitpic.com/501cz9 :P
+
+May 20 15:51:45 <EspadaV8>	jellyman: snap
+
+May 20 15:51:48 <M-Saunders>	hudzilla: I've tried Emacs vs KDE vs particle vs wave -- no luck
+
+May 20 15:51:50 *	Kvik_sweden (~keld@m83-185-40-196.cust.tele2.se) has joined #linuxformat
+
+May 20 15:51:52 <huw_>	M-Saunders, starting a flamewar in the Linux community is depressingly easy ;)
+
+May 20 15:51:57 <EspadaV8>	jellyman: where abouts? i'm in brisbane
+
+May 20 15:51:59 <JonRob>	EspadaV8 - as i understand it, atm it's good if you don't want your transactions to be traceable by governments, or if you don't want to pay any handling costs
+
+May 20 15:52:05 <AndreasFrom>	cchristiansen: Ja, jeg er fra Roskilde, lidt vest for København
+
+May 20 15:52:06 <davmor2>	AndreasFrom: you can blame Suse linux 6.3 instructions for my nick 3 from first name, 3 from last name plus a number davmor1 was taken :D
+
+May 20 15:52:12 <M-Saunders>	biggles1000: Good work on the GameCube
+
+May 20 15:52:14 <cchristiansen>	AndreasFrom: Men jeg har kun bor i Danmark for 4 ar, so jeg kan ikke taler sa virkelig meget
+
+May 20 15:52:19 <LXF_Andrew>	JonRob, A bit like cash then?
+
+May 20 15:52:19 <mcnalu>	don't dis flamewars - they're cool
+
+May 20 15:52:24 <biggles1000>	the left shift and left ctrl keys are missing (i was cleaning it, but the bits of metal that hold them on snapped off)
+
+May 20 15:52:24 *	scoootr has quit (Ping timeout: 246 seconds)
+
+May 20 15:52:29 <cchristiansen>	AndreasFrom: Nu bor jeg i England
+
+May 20 15:52:31 <biggles1000>	yeah, it was just the right height :P
+
+May 20 15:52:32 <felimwhiteley>	degville: oh cool, I have used KDe for 10 years.. but I barley touch the low level.. actually that screenshots/photos of desktops intriuges me as I'd love to see how folk use there's more
+
+May 20 15:52:36 <jellyman>	M-Saunders Thanks for organising the IRC to be on at midnight too.
+
+May 20 15:52:41 <hudzilla>	M-Saunders: Try something like "Ubuntu: great distribution or greatest distribution?" :)
+
+May 20 15:52:46 <AndreasFrom>	davmor2: Ok, good to know
+
+May 20 15:52:48 <M-Saunders>	jellyman: Er, you're welcome :-)
+
+May 20 15:52:53 <JonRob>	MayankSharma - it's called 'Reading the Church Fathers' - i helped edit the final text - just footnotes etc, but still :)
+
+May 20 15:53:05 *	threedbeef (~androirc@72-160-57-81.dyn.centurytel.net) has joined #linuxformat
+
+May 20 15:53:08 <felimwhiteley>	degville: I've a javascript file back from ages ago the KDe guys were using to setup terminals or something.. had it for ages and never lokoed at it :( 
+
+May 20 15:53:09 <JonRob>	LXF_Andrew - lol, yes, though for digital purchases
+
+May 20 15:53:15 <AndreasFrom>	cchristiansen: Okay, I'm thinking about moving there or at least study a couple of years when I'm onlder
+
+May 20 15:53:15 <mfraz74>	England here - Somerset to be more precise
+
+May 20 15:53:23 <jellyman>	EspadaV8 I live in Brisbane too :)
+
+May 20 15:53:23 <AndreasFrom>	cchristiansen: older*
+
+May 20 15:53:24 <thameslink>	its a shame really I've used ubuntu to introduce 3 or 4 non techie people to linux since 9.04 and now the unity launcher I've been playing with is broken in lots of little annoyning ways that'd just put people right off.
+
+May 20 15:53:26 <M-Saunders>	mfraz74: Arrr, Sahmerset
+
+May 20 15:53:38 <cchristiansen>	AndreasFrom: So you're still in school?
+
+May 20 15:53:53 *	EspadaV8 looks out the window to see which houses have lights on
+
+May 20 15:53:54 <mfraz74>	M-Saunders: Yep, and with The Worzels on TOTP last night :)
+
+May 20 15:54:10 <M-Saunders>	mfraz74: Cool. You probably know that we're all based in Bath
+
+May 20 15:54:17 <maxwildcat>	convert teachers like i did in uni .. students will follow :P
+
+May 20 15:54:32 <mfraz74>	M-Saunders: Yes, I've walked past the Future building
+
+May 20 15:54:35 <M-Saunders>	Wow
+
+May 20 15:54:37 <AndreasFrom>	cchristiansen: I'm 15 so yeah, Gymnasium next year, exams next month :(
+
+May 20 15:54:41 <M-Saunders>	I haven't had to kickban anyone yet
+
+May 20 15:54:44 <degville>	felimwhiteley: i think the 4.4 release added tons of stuff. regex, qt (now qml would be good)... but they've just not written it down. it is powerful though, much like the rest of KDE.
+
+May 20 15:54:45 <hudzilla>	mfraz74: Which one? :)
+
+May 20 15:54:52 <LXF_Andrew>	M-Saunders, Apart from the bloke sitting next to you who is a Corno-Devonian
+
+May 20 15:54:55 <EspadaV8>	mfraz74: i think i have as well
+
+May 20 15:55:00 <mfraz74>	hudzilla: The new looking one?
+
+May 20 15:55:02 <cchristiansen>	AndreasFrom: I'm 16, got exams at the moment.. :(
+
+May 20 15:55:05 <EspadaV8>	i forget
+
+May 20 15:55:17 <EspadaV8>	in fact... i think i'm talking b*lls
+
+May 20 15:55:20 <AndreasFrom>	cchristiansen: okay, I'm
+
+May 20 15:55:42 <AndreasFrom>	cchristiansen: okay, I can't wait to get out of this school :) it's worth the exams :)
+
+May 20 15:55:52 <hudzilla>	mfraz74: I call shenanigans! All Future buildings are designed to look decrepit to keep stalkers away :)
+
+May 20 15:56:15 <JonTheNiceGuy>	Right, I'm gonna have to go
+
+May 20 15:56:19 <M-Saunders>	Is it time to paste an ASCII penguin
+
+May 20 15:56:20 <thameslink>	anyway who here has seen the best thing since sliced whatever...mineos
+
+May 20 15:56:20 <EspadaV8>	http://maps.google.co.uk/maps/place?cid=7137475140136072461&q=future+publishing,+bath&hl=en&sll=51.418409,-2.475314&sspn=0.090036,0.282864&ie=UTF8&ll=51.477534,-2.644615&spn=0,0&z=12
+
+May 20 15:56:21 <M-Saunders>	?
+
+May 20 15:56:23 <degville>	hudzilla: it's same strategy with the employees. 
+
+May 20 15:56:24 <EspadaV8>	is that it?
+
+May 20 15:56:25 <mfraz74>	lol
+
+May 20 15:56:25 <AndreasFrom>	I saw the Future building on Google Streetview :9
+
+May 20 15:56:34 <AndreasFrom>	i hate smileys...
+
+May 20 15:56:37 *	poiyrssgj (~androirc@217.171.129.80) has joined #linuxformat
+
+May 20 15:56:46 <JonRob>	LXF_Andrew: Cornish, no Devonian!
+
+May 20 15:56:47 <JonTheNiceGuy>	Thanks for opening this up, I hope it's a regular occurrence
+
+May 20 15:56:51 *	EspadaV8 thinks his bit miner might be doing something :-S
+
+May 20 15:56:54 <hudzilla>	degville: You should grow your beard back. The murder mystery beard.
+
+May 20 15:56:58 <huw_>	JonTheNiceGuy, me too
+
+May 20 15:56:59 <mfraz74>	hudzilla: I was up there getting bad service from "Moss Of Bath" when I saw the building
+
+May 20 15:57:13 <huw_>	does evilnick still have that beard?
+
+May 20 15:57:17 <EspadaV8>	how good is the spa in bath
+
+May 20 15:57:19 <EspadaV8>	omfg
+
+May 20 15:57:21 <M-Saunders>	huw_: It's not as big
+
+May 20 15:57:25 *	JonTheNiceGuy has quit (Quit: So long and thanks for all the fish)
+
+May 20 15:57:28 <M-Saunders>	EspadaV8: Not as good as Spa Francorchamps
+
+May 20 15:57:36 <huw_>	M-Saunders, ok. he went full-on geek all of sudden didn't he? hehe
+
+May 20 15:57:54 <degville>	huw_: apparently, it's on the way back.
+
+May 20 15:57:57 <EspadaV8>	where's that?
+
+May 20 15:57:59 <M-Saunders>	huw_: Nick's been a geek since the first cell division
+
+May 20 15:58:05 <huw_>	lol
+
+May 20 15:58:11 <mfraz74>	BTW, can we have the back page crossword back?
+
+May 20 15:58:20 <EspadaV8>	http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps - it's a race track :-s
+
+May 20 15:58:21 *	chryatis has quit (Quit: Leaving)
+
+May 20 15:58:32 <LXF_Andrew>	mfraz74, I second that. Graham, bring back the corssword!
+
+May 20 15:58:35 <M-Saunders>	mfraz74: Cool. Graham loved making that
+
+May 20 15:58:35 <huw_>	degville, your next podcast challenge - grow the best beard! in two weeks obviously
+
+May 20 15:58:36 <davmor2>	M-Saunders, LXF_Andrew, JonRob, degville: challenge request produce and deliver the podcast using python based apps only :)
+
+May 20 15:58:58 <M-Saunders>	davmor2: Too easy. Make it assembly language and it's a deal :-)
+
+May 20 15:59:07 <huw_>	haha they'll never get around to doing that, let's be honest!
+
+May 20 15:59:12 <frank_duck>	How about Hanjie instead of a crossword?
+
+May 20 15:59:17 <felimwhiteley>	shouldn't be too bad assuming jokosher still works.. or starts too :)
+
+May 20 15:59:23 <bobthebob1234>	challenge: Play minecraft for a day, then try not to play it for 2 days :D
+
+May 20 15:59:29 <EspadaV8>	crossword with obscure linux commands
+
+May 20 15:59:34 <LXF_Andrew>	huw_, I like the sound of that. Mine has extra ginger
+
+May 20 15:59:34 <hudzilla>	\
+
+May 20 15:59:40 <AndreasFrom>	bobthebob1234: easy!
+
+May 20 15:59:43 <hudzilla>	I've just tried to explain pointer pointers to someone.
+
+May 20 15:59:45 <huw_>	bobthebob1234, checked out Terraria? better than Minecraft! honest!
+
+May 20 15:59:49 <davmor2>	M-Saunders, LXF_Andrew, JonRob, degville: challenge request produce and deliver the podcast using assembly based apps only :) (as per M-Saunders request)
+
+May 20 15:59:52 <hudzilla>	Can any of you do a better job? :)
+
+May 20 15:59:53 <M-Saunders>	huw_: But's not not 3D!!!!11one
+
+May 20 16:00:04 <AndreasFrom>	huw_: I'll try that, thx
+
+May 20 16:00:04 <huw_>	yeah but it's in active development! oooo, zing!
+
+May 20 16:00:12 <M-Saunders>	Ouch
+
+May 20 16:00:30 *	M-Saunders waits for some silence to paste an ASCII penguin
+
+May 20 16:00:31 <huw_>	unfortunately it's only available on Steam at the moment
+
+May 20 16:00:40 <M-Saunders>	
+
+May 20 16:00:40 <M-Saunders>	 .___.
+
+May 20 16:00:40 <M-Saunders>	 / \
+
+May 20 16:00:40 <M-Saunders>	 | O _ O |
+
+May 20 16:00:40 <M-Saunders>	 / \_/ \ 
+
+May 20 16:00:40 <M-Saunders>	 .' / \ `.
+
+May 20 16:00:40 <M-Saunders>	 / _| |_ \
+
+May 20 16:00:40 <M-Saunders>	(_/ | | \_)
+
+May 20 16:00:40 <M-Saunders>	 \ /
+
+May 20 16:00:40 <M-Saunders>	 __\_>-<_/__
+
+May 20 16:00:40 <M-Saunders>	 ~;/ \;~
+
+May 20 16:00:44 <M-Saunders>	
+
+May 20 16:00:46 <M-Saunders>	Did that work?
+
+May 20 16:00:50 <thameslink>	does it have its own distro though?
+
+May 20 16:01:01 <AndreasFrom>	nice penguin!
+
+May 20 16:01:02 <huw_>	lol you were never going to get away with that M-Saunders 
+
+May 20 16:01:06 <threedbeef>	almost
+
+May 20 16:01:06 <cchristiansen>	Not really
+
+May 20 16:01:11 <M-Saunders>	ALMOST
+
+May 20 16:01:12 <M-Saunders>	SO NEAR
+
+May 20 16:01:14 <hudzilla>	M-Saunders: Yes, but I got some thameslink action inbetween :)
+
+May 20 16:01:15 <huw_>	i was planning on putting TUX on a line in the middle there
+
+May 20 16:01:15 <felimwhiteley>	M-Saunders: non fixed width font by default in Quassel fail ;)
+
+May 20 16:01:16 <AndreasFrom>	so close
+
+May 20 16:01:16 <Dave2>	...that's a lot of people in here
+
+May 20 16:01:19 <jellyman>	thameslink You wrecked the ASCII!!
+
+May 20 16:01:20 <bobthebob1234>	2-d minecraft? Shocking
+
+May 20 16:01:23 <Theodore>	M-Saunders: Really very nice
+
+May 20 16:01:29 <thameslink>	sweet
+
+May 20 16:01:31 <huw_>	bobthebob1234, trust me. it is absolutely superb
+
+May 20 16:01:43 <huw_>	more combat, more content, just generally more stuff to do
+
+May 20 16:01:44 <EspadaV8>	 /ban thameslink 
+
+May 20 16:01:47 <Dave2>	I go to the pub, come back, nobody here, go to a meeting, come back, 66 people what
+
+May 20 16:01:47 <EspadaV8>	:-D
+
+May 20 16:01:59 <LXF_Andrew>	thameslink, Are you the person who sent us the pic of a computer screen booting Fedora or something on the back of a train seat?
+
+May 20 16:02:00 <towy71>	thameslink isn't that a trainline that doesn't work
+
+May 20 16:02:02 <M-Saunders>	felimwhiteley: IRC without monospace fonts?! That's like listening to Bach harpsichord music on a PIANO!
+
+May 20 16:02:10 <M-Saunders>	towy71: That's every train line
+
+May 20 16:02:19 <thameslink>	umm no
+
+May 20 16:02:19 <bobthebob1234>	huw_; how do I get it on linux?
+
+May 20 16:02:24 <felimwhiteley>	M-Saunders: bah
+
+May 20 16:02:24 <M-Saunders>	Dave2: Cool. Are you drunk?
+
+May 20 16:02:27 <marxjohnson>	speaking of monospace fonts, whatever happened to Ubuntu Monospace?
+
+May 20 16:02:32 <huw_>	bobthebob1234, unless it works on WINE i have no idea i'm afraid :(
+
+May 20 16:02:33 <degville>	mfraz74: you do know that crossword was generated with ls -m /bin /sbin >crossword.txt
+
+May 20 16:02:40 <spamsnake>	Speaking of Bach, Iwas just playing some of his work
+
+May 20 16:02:43 <Dave2>	M-Saunders: I only had one pint :(
+
+May 20 16:02:43 <huw_>	i'm one of those sad gits who keeps a Windows partition around for gaming
+
+May 20 16:02:50 <Dave2>	I figured it was fine as my manager also went
+
+May 20 16:02:53 <M-Saunders>	degville: That's how I write all of my tutorials
+
+May 20 16:02:57 <mfraz74>	degville: That explains why I couldn't finish one
+
+May 20 16:02:58 <huw_>	lol
+
+May 20 16:03:01 <AndreasFrom>	huw_: me too, it's alright though
+
+May 20 16:03:10 <Dave2>	My mind cannot cope with the concept of this channel having activity :(
+
+May 20 16:03:26 <huw_>	dave2 yeah, i used to frequent this place until the activity bottomed out
+
+May 20 16:03:30 <M-Saunders>	Dave2: This changes everything. Again.
+
+May 20 16:03:32 <huw_>	hopefully this is the start of a new era!
+
+May 20 16:03:38 <M-Saunders>	A whole new world
+
+May 20 16:03:39 <Dave2>	huw_: how long ago was that‽
+
+May 20 16:03:40 <felimwhiteley>	Dave2: it's like... lug radio channel back in the day... 
+
+May 20 16:03:41 <huw_>	i demand regular staff appearances!
+
+May 20 16:03:46 <JonRob>	Dave2 - lol, but if a new era starts the magazine will never be published again
+
+May 20 16:03:46 *	felimwhiteley wipes whistful tear from eye
+
+May 20 16:03:49 <huw_>	dave2, oooo, at least a couple of years ago now
+
+May 20 16:03:58 <Dave2>	huw_: liar, there wasn't any activity a couple of years ago.
+
+May 20 16:04:11 <M-Saunders>	So who has the best nickname here then?
+
+May 20 16:04:12 <Dave2>	I don't think there's been any activity in here in the time I've been here, which must've been since at least 2003
+
+May 20 16:04:21 <huw_>	haha
+
+May 20 16:04:21 <towy71>	me
+
+May 20 16:04:22 <M-Saunders>	I like "hitomato"
+
+May 20 16:04:24 *	towy71 
+
+May 20 16:04:30 <Dave2>	(It might've been earlier.)
+
+May 20 16:04:41 <huw_>	my regular nick has been, er, nicked :(
+
+May 20 16:04:46 <felimwhiteley>	M-Saunders: clearly me
+
+May 20 16:04:46 <huw_>	obviously it wasn't very regular
+
+May 20 16:04:52 <Dave2>	M-Saunders: any idea when I firstj oined?
+
+May 20 16:04:54 <towy71>	beerw0lf looks good
+
+May 20 16:04:56 <M-Saunders>	felimwhiteley: Is yours an anagram for something?
+
+May 20 16:04:56 <hudzilla>	huw_: If you want degville to be active, you need to read M-Saunders's IRC Bot in Perl tutorial on TuxRadar, then write a Monome bot that lives in the channel.
+
+May 20 16:05:05 <M-Saunders>	Dave2: I'd say, yeah, 2002/3 or thereabouts
+
+May 20 16:05:23 <huw_>	hudzilla, oh jeez. can't i just learn about trackers instead? :D
+
+May 20 16:05:39 *	threedbeef has quit (Quit: AndroIRC)
+
+May 20 16:05:48 <felimwhiteley>	M-Saunders: eh... yessss
+
+May 20 16:05:53 <huw_>	LXF_Andrew clearly has the best nick, he's the only one with a proper staff tag! so nur!
+
+May 20 16:06:03 *	huw_ is now known as LXF_Huw
+
+May 20 16:06:05 <LXF_Huw>	hehehehehehehehe
+
+May 20 16:06:09 <M-Saunders>	huw_: He has to do that, so we can find him. It's like a tag
+
+May 20 16:06:11 <LXF_Andrew>	Good work huw
+
+May 20 16:06:11 <cchristiansen>	cheeky
+
+May 20 16:06:19 <LXF_Huw>	lol M-Saunders 
+
+May 20 16:06:26 *	felimwhiteley follwoing the Bruce Perens logic of being yourself online.. also never being able to think of a good one that wasn't taken
+
+May 20 16:06:38 *	LXF_Huw is the new LXF intern
+
+May 20 16:06:40 *	Dave2 (~Dave2@freenode/staff/dave2) has left #linuxformat ("My poor window #23 can't keep up with this :(")
+
+May 20 16:06:41 <LXF_Huw>	no salary
+
+May 20 16:06:42 <hudzilla>	huw_: Trackers are more Mike's game. If you hand Mike a screenshot of some audio waveforms and a print out from OctaMED, he could probably hum the melody.
+
+May 20 16:06:42 <AndreasFrom>	Does LXF_Huw get payed by Future now?
+
+May 20 16:06:44 <LXF_Huw>	no work produced either
+
+May 20 16:06:50 *	Dave2 (~Dave2@freenode/staff/dave2) has joined #linuxformat
+
+May 20 16:06:58 <cchristiansen>	Yes, please allow interns!
+
+May 20 16:06:59 <LXF_Huw>	lol hudzilla. i believe you
+
+May 20 16:07:07 <hudzilla>	Dave2: Window #23? IRSSI, I'm guessing? :)
+
+May 20 16:07:14 <LXF_Huw>	that fugue he produced for the podcast was fantastic!
+
+May 20 16:07:15 <Dave2>	Yus.
+
+May 20 16:07:31 <hitomato>	M-Saunders: It's supposed to be hiromato actually. Spelling mistake...
+
+May 20 16:07:35 <hudzilla>	LXF_Huw: I think we all felt shamed when we heard Mike's fugue.
+
+May 20 16:07:49 <mfraz74>	Oh I remember listening to trackers back when I used RISC OS
+
+May 20 16:07:58 <LXF_Andrew>	What did I do for that challenge? Oh yes, I remember
+
+May 20 16:08:00 <M-Saunders>	LXF_Huw: Thanks, glad you remembered that fugue :-)
+
+May 20 16:08:04 *	AndroUserght (~androirc@217.171.129.80) has joined #linuxformat
+
+May 20 16:08:11 <poiyrssgj>	hi 
+
+May 20 16:08:26 <M-Saunders>	Quick channel poll:
+
+May 20 16:08:30 <hudzilla>	LXF_Huw: That said, I still remember the words to my "song". "One BILLION dollars, a THOUSAND people......" ;)
+
+May 20 16:08:32 <M-Saunders>	Should I have a cup of tea from the machine here?
+
+May 20 16:08:38 <braintooth>	hudzilla: that reminds me, didnt someoen do a 'pink ponies, natuarly' song?
+
+May 20 16:08:39 <cchristiansen>	no
+
+May 20 16:08:40 <mfraz74>	No
+
+May 20 16:08:44 <Dave2>	No.
+
+May 20 16:08:46 <felimwhiteley>	no
+
+May 20 16:08:46 <warmana>	no
+
+May 20 16:08:54 <AndreasFrom>	Tea, yes. from machine, no.
+
+May 20 16:08:55 <Dave2>	Get teabag, apply hot water.
+
+May 20 16:08:56 <tristan2468>	/names
+
+May 20 16:08:56 <M-Saunders>	The nos have it
+
+May 20 16:08:57 <LXF_Huw>	haha. that song is awesome
+
+May 20 16:08:58 <hudzilla>	M-Saunders: Are they out of the green stuff?
+
+May 20 16:09:02 <tristan2468>	66 wow
+
+May 20 16:09:03 *	gwil (~gwil@host217-35-230-72.range217-35.btcentralplus.com) has joined #linuxformat
+
+May 20 16:09:04 <number_number>	absolutely
+
+May 20 16:09:06 <degville>	LXF_Huw: that fugue was pre-prepared!
+
+May 20 16:09:06 <jellyman>	No.
+
+May 20 16:09:12 <cchristiansen>	As my great grandma said upon being offered tea, "What? DO I look ill?!!"
+
+May 20 16:09:20 <M-Saunders>	hudzilla: I'm scared to drink that now
+
+May 20 16:09:23 <LXF_Huw>	lol degville. that's the point of the challenge, as you lot consistently fail to get ;)
+
+May 20 16:09:25 <poiyrssgj>	when is the new magaZine sent out to subscribers? 
+
+May 20 16:09:29 <thameslink>	have you all seen the boot linux in your browser thing on /.
+
+May 20 16:09:31 <LXF_Huw>	you get two weeks!
+
+May 20 16:09:34 <thameslink>	cd ..
+
+May 20 16:09:37 <EspadaV8>	tea is win
+
+May 20 16:09:47 <M-Saunders>	poiyrssgj: Usually around a week before it's on the newsstands, in the UK
+
+May 20 16:09:52 <cchristiansen>	the program tea is okay..
+
+May 20 16:09:54 <M-Saunders>	thameslink: Yeah, it's great
+
+May 20 16:10:02 <felimwhiteley>	tea is indeed ftw, but machine tea is like sweaty sock juice
+
+May 20 16:10:05 <M-Saunders>	thameslink: No real mode though, so I can't run MikeOS in it :-/
+
+May 20 16:10:07 <mfraz74>	I usually get it on the Saturday befoer
+
+May 20 16:10:08 <degville>	LXF_Huw: so true! but i meant by about 18 months.
+
+May 20 16:10:15 <mfraz74>	So hopefully tomorrow :)
+
+May 20 16:10:20 <LXF_Huw>	degville o_O
+
+May 20 16:10:22 <LXF_Huw>	really?!
+
+May 20 16:10:26 <LXF_Andrew>	Thanks for reminding me pople, I've run out of Yorkshire tea and only have two bags of a rather weak English Beeakfat left
+
+May 20 16:10:32 <hudzilla>	degville: REALLY? I'm shocked. SHOCKED.
+
+May 20 16:10:33 *	marxjohnson has quit (Read error: Connection reset by peer)
+
+May 20 16:10:38 <M-Saunders>	LXF_Andrew: LIKE TEA USED TO BE.
+
+May 20 16:10:42 <LXF_Huw>	M-Saunders, cheater! OMG
+
+May 20 16:10:53 <M-Saunders>	LXF_Huw: What, I was supposed to perform it live?
+
+May 20 16:11:00 <mfraz74>	LXF_Andrew: Use 2 tea bags instead?
+
+May 20 16:11:01 <LXF_Huw>	haha
+
+May 20 16:11:02 <felimwhiteley>	LXF_Andrew: bah no of that straw tasting yorkshire rubbish, you need Barry's tea!
+
+May 20 16:11:05 <gwil>	LXF_Andrew: isn't eak tea the best type?
+
+May 20 16:11:07 <Dave2>	I don't like the sound of beakfat.
+
+May 20 16:11:13 <gwil>	*weak
+
+May 20 16:11:32 *	Guest97786 (~patrick@0x5ebd3114.terminal.tdcmobil.dk) has left #linuxformat
+
+May 20 16:11:34 *	jemark has quit (Read error: Connection reset by peer)
+
+May 20 16:11:41 <LXF_Andrew>	Felim, did you say you were in hospital? Isn't hospital + machine a recip for all sorts of beverage badness?
+
+May 20 16:11:41 <mfraz74>	Coffee
+
+May 20 16:12:01 <M-Saunders>	OK, time for a cup of tea
+
+May 20 16:12:03 <braintooth>	I was trying to find the songs the team made but could figure out what podcast they were from
+
+May 20 16:12:05 <M-Saunders>	Nobody stop me
+
+May 20 16:12:15 <LXF_Huw>	oh that reminds me, i've been hitting the old ginger and lemon infusions lately. acquired taste, but NICE
+
+May 20 16:12:23 *	warmana has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+
+May 20 16:12:27 <LXF_Huw>	puts you to sleep too
+
+May 20 16:12:29 <JonRob>	braintooth - if you find them, please share... i missed that!
+
+May 20 16:12:31 *	LXF_Huw nods sagely
+
+May 20 16:12:39 <braintooth>	could not find...
+
+May 20 16:12:44 <felimwhiteley>	LXF_Andrew: they come round with tea 4 times a day in Irish hospitals.. gurrr make you better.. medication, that's for girls (no sexism intended jsut representing nonsense old notions)
+
+May 20 16:12:48 *	patsrs (1000@wire152019113067.med.unc.edu) has left #linuxformat ("Leaving")
+
+May 20 16:12:54 <braintooth>	still looking trhough
+
+May 20 16:13:00 <LXF_Huw>	i thought failing to understand linux was for girls
+
+May 20 16:13:01 <jsm2625>	What is the podcast theme tune?
+
+May 20 16:13:04 <LXF_Andrew>	felimwhiteley, Careful no!
+
+May 20 16:13:04 <LXF_Huw>	or is it uncles now. i forget
+
+May 20 16:13:16 <AndreasFrom>	is Mike trying to do more ASCII stuff?
+
+May 20 16:13:17 <felimwhiteley>	LXF_Andrew: down with that sort of thing!
+
+May 20 16:13:22 <DoubleDiode>	Theme should be the Pink Pony Song
+
+May 20 16:13:23 <LXF_Andrew>	Father Ted 'Careful Now' undermined by typo fail
+
+May 20 16:13:24 <hudzilla>	jsm2625: That's a really important question, and I think someone ought to answer it sometime.
+
+May 20 16:13:33 <LXF_Huw>	LXF_Andrew, shameful. tch tch
+
+May 20 16:13:39 <braintooth>	woah, time to get mocked by my Linux useing Spanish speaking 4 year old.
+
+May 20 16:13:45 <braintooth>	enjoy your day
+
+May 20 16:13:52 <gwil>	jsm2652: isn't it "dropping out of school" by brad sucks
+
+May 20 16:14:01 <JonRob>	braintooth: season 2, episode 6
+
+May 20 16:14:01 <LXF_Huw>	jsm2625, it's by Brad Sucks
+
+May 20 16:14:06 <LXF_Huw>	ah, ninja'd
+
+May 20 16:14:13 <gwil>	:)
+
+May 20 16:14:13 *	tux (~tux@88-149-185-13.staticnet.ngi.it) has joined #linuxformat
+
+May 20 16:14:20 <jsm2625>	Cheers!
+
+May 20 16:14:23 <LXF_Huw>	omg it's tux himself!
+
+May 20 16:14:26 <felimwhiteley>	LXF_Andrew: lol the "w" was clearly still "resting" in your account
+
+May 20 16:14:26 <degville>	
+May 20 16:14:29 <gwil>	Who else here is doing their GCSEs?
+
+May 20 16:14:31 <tux>	Hey everyone!
+
+May 20 16:14:31 <M-Saunders>	AndreasFrom: When I get the chance, I will
+
+May 20 16:14:34 *	tux is now known as Guest21503
+
+May 20 16:14:42 <Guest21503>	no!!!
+
+May 20 16:14:45 <AndreasFrom>	M-Saunders: I thought so
+
+May 20 16:14:46 <LXF_Huw>	next podcast challenge should be to fix LXF_Andrew's keyboard i reckon
+
+May 20 16:14:46 <LXF_Andrew>	felimwhiteley, Good work sir!
+
+May 20 16:14:52 *	Guest21503 is now known as Darth_Tux
+
+May 20 16:14:58 *	felimwhiteley bows
+
+May 20 16:14:59 *	Darth_Tux is now known as Darth_Tux2328
+
+May 20 16:15:02 <LXF_Huw>	lol Darth_Tux2328 
+
+May 20 16:15:02 *	braintooth (~chatzilla@c-98-247-23-212.hsd1.wa.comcast.net) has left #linuxformat
+
+May 20 16:15:11 <M-Saunders>	Darth_Tux2328... rolls off the tongue
+
+May 20 16:15:21 <LXF_Huw>	just like a marble
+
+May 20 16:15:23 <Darth_Tux2328>	yeah!
+
+May 20 16:15:26 <cchristiansen>	gwil: I am
+
+May 20 16:15:38 <jstitch>	well... time to work... goodbye! and really, nice podcast you have! greetings...
+
+May 20 16:15:43 <LXF_Huw>	now...who WISHES they were back doing their GCSEs?
+
+May 20 16:15:44 <LXF_Huw>	ME
+
+May 20 16:15:50 <M-Saunders>	jstitch: Ciao
+
+May 20 16:15:50 <LXF_Huw>	cya jstitch 
+
+May 20 16:15:51 <LXF_Andrew>	Darth_Tux2328, I preferred you when you Anakin5496
+
+May 20 16:15:58 <LXF_Huw>	hahahahaha
+
+May 20 16:15:59 <Darth_Tux2328>	haha
+
+May 20 16:16:00 <gwil>	cchristiansen: Yay, someone my age who uses linux :)
+
+May 20 16:16:03 <felimwhiteley>	lol
+
+May 20 16:16:06 <degville>	jstich: thanks! have a great wekeend.
+
+May 20 16:16:10 <gwil>	and I don't wish I was doing GCSEs
+
+May 20 16:16:12 <AndreasFrom>	gwil: Me too
+
+May 20 16:16:20 <LXF_Huw>	i'm gonna have to go in a minute too :(
+
+May 20 16:16:26 <LXF_Huw>	i thought we said 21:00 for the IRC session?
+
+May 20 16:16:29 *	jemark (~jemark@46.7.88.195) has joined #linuxformat
+
+May 20 16:16:29 <M-Saunders>	LXF_Huw: But you're one of us
+
+May 20 16:16:29 *	jemark has quit (Changing host)
+
+May 20 16:16:29 *	jemark (~jemark@unaffiliated/jemark) has joined #linuxformat
+
+May 20 16:16:30 <cchristiansen>	There are three of us 15-16 year olds :D
+
+May 20 16:16:34 <Darth_Tux2328>	Hey, I just received LXF 145!!!
+
+May 20 16:16:34 <gwil>	I have to revise RE
+
+May 20 16:16:36 <M-Saunders>	LXF_Huw: You can't leave until 5:30
+
+May 20 16:16:41 <Darth_Tux2328>	!
+
+May 20 16:16:41 <LXF_Huw>	M-Saunders, didn't stop Effy apparently!
+
+May 20 16:16:43 <MikeN_>	Probably discussed this already, but how are people finding Ubuntu 11.04? Bit the bullet and installed Arch and GNOME3 last weekend. Could not get on with Unity.
+
+May 20 16:16:44 <davmor2>	shocked to not see an anonymous penguin on this channel
+
+May 20 16:16:44 <felimwhiteley>	cchristiansen: get off my lawn!
+
+May 20 16:16:45 <thameslink>	well I'm about to quit my job and do an access to HE certificate which is as close as I'll ever get to sitting GCSE's
+
+May 20 16:16:51 <LXF_Andrew>	LXF_Huw, Yeah intern, back to work
+
+May 20 16:16:56 <LXF_Huw>	:(
+
+May 20 16:16:56 <M-Saunders>	LXF_Huw: Effy has a gun and we're scared of him
+
+May 20 16:16:56 <Dave2>	GCSEs were somewhat annoying. Plus if I were doing GCSEs now it'd mean I'd have to do my final year project again and I don't want to do that.
+
+May 20 16:17:05 <LXF_Huw>	haha
+
+May 20 16:17:17 <cchristiansen>	felimwhiteley: what? are you 15-16 as well?
+
+May 20 16:17:31 *	jstitch (~sysadmin@200.66.91.18) has left #linuxformat ("Konversation terminated!")
+
+May 20 16:17:34 <mfraz74>	MikeN_: I've upgraded a few laptops to Kubuntu 11.04, had problems with Xorg and networking on some of them
+
+May 20 16:17:35 *	towy71 is now known as anonymous-pengui
+
+May 20 16:17:39 <felimwhiteley>	cchristiansen: eh no.. but you you folk need to get off my lawn
+
+May 20 16:17:44 <AndreasFrom>	cchristiansen: Isn't he just doing an old man impression
+
+May 20 16:17:47 *	anonymous-pengui is now known as anonymouspenguin
+
+May 20 16:17:56 *	anonymouspenguin 
+
+May 20 16:18:04 <felimwhiteley>	argh you/youg
+
+May 20 16:18:13 <gwil>	oh god, anonymous penguin. Do we all ignore him?
+
+May 20 16:18:17 <felimwhiteley>	AndreasFrom: bonus points to you
+
+May 20 16:18:20 <LXF_Huw>	lol i was gonna say that gwil
+
+May 20 16:18:24 <Dave2>	felimwhiteley's not 15-16, he uses a tea pot, and teenagers don't use those.
+
+May 20 16:18:30 <AndreasFrom>	felimwhiteley: for what?
+
+May 20 16:18:31 <Darth_Tux2328>	ARCH vs. SLACKWARE
+
+May 20 16:18:40 <felimwhiteley>	Dave2: shuuut iiiiiit!
+
+May 20 16:18:40 <M-Saunders>	Darth_Tux2328: ARCHWARE
+
+May 20 16:18:45 <Dave2>	felimwhiteley: :(
+
+May 20 16:18:49 <LXF_Huw>	Debian vs the WORLD! because Debian can take it :p
+
+May 20 16:18:51 <cchristiansen>	AndreasFrom: for understanding him correctly
+
+May 20 16:18:52 <gwil>	arch, definately
+
+May 20 16:18:56 <AndreasFrom>	Slackarch
+
+May 20 16:18:56 <M-Saunders>	So Linux then
+
+May 20 16:19:00 <cchristiansen>	Arch
+
+May 20 16:19:01 <MikeN_>	Arch
+
+May 20 16:19:01 <M-Saunders>	How to get more market share?
+
+May 20 16:19:05 <AndreasFrom>	cchristiansen: felimwhiteley: Ahh i see
+
+May 20 16:19:06 <felimwhiteley>	AndreasFrom: lets say... storage
+
+May 20 16:19:10 <Darth_Tux2328>	arch doesn't install properly for me....
+
+May 20 16:19:11 <Dave2>	Buy shares in a market.
+
+May 20 16:19:12 <Darth_Tux2328>	:(
+
+May 20 16:19:18 <JonRob>	http://www.tuxradar.com/files/music/pauls_music.ogg
+
+May 20 16:19:24 <Theodore>	Darth_Tux2328: I happen to be a fan of Slackware for years now
+
+May 20 16:19:25 <M-Saunders>	Dave2: You win, flawless victory
+
+May 20 16:19:28 <LXF_Huw>	M-Saunders, it won't happen, not significantly. Windows install base is too large
+
+May 20 16:19:37 <cchristiansen>	market share? give everybody free LXF magazines >:D
+
+May 20 16:19:41 <Darth_Tux2328>	Slackware = dependency difficulty for me
+
+May 20 16:19:42 <degville>	M-Saunders: rename ubuntu-1104 to windows8_beta2.torrent
+
+May 20 16:19:53 <AndreasFrom>	yeah
+
+May 20 16:19:55 <LXF_Huw>	one thing we *could* all be doing though, is getting our MPs to press for more open-source in schools, government departments etc. that's realistic
+
+May 20 16:19:56 <M-Saunders>	cchristiansen: You send us the money, we'll hand 'em out :-)
+
+May 20 16:19:58 <mfraz74>	What we need is an official Linux distro for the UK like Pardus is for Turkey
+
+May 20 16:20:03 <biggles1000>	that would make it infinity% more popuar :P
+
+May 20 16:20:07 <Dave2>	Limebuntu
+
+May 20 16:20:11 <LXF_Andrew>	Fair point Huw, I've ditched Ubuntu on my old laptop in favour of Debian. It just works
+
+May 20 16:20:20 <Darth_Tux2328>	Really?
+
+May 20 16:20:23 <LXF_Huw>	cool beans LXF_Andrew!
+
+May 20 16:20:26 *	minino (~ubuntu@cpc2-ruth6-0-0-cust436.14-1.cable.virginmedia.com) has joined #linuxformat
+
+May 20 16:20:29 <davmor2>	anonymouspenguin: nice, that feels more like LXF :D
+
+May 20 16:20:31 <LXF_Huw>	yeah it's finally got to that point. i love my Debian system
+
+May 20 16:20:31 <DoubleDiode>	windows > /dev/null
+
+May 20 16:20:37 *	frank_duck has quit (Quit: leaving)
+
+May 20 16:20:43 <LXF_Huw>	right i have to leave :(
+
+May 20 16:20:44 <Dave2>	M-Saunders: I've just realized I still have your Wave Race 64.
+
+May 20 16:20:47 <JonRob>	so if windows > /dev/null, mac > ?
+
+May 20 16:20:47 <Theodore>	Darth_Tux2328: I agree to some extent, but the pay-off is that it gives you full control of almost everything on the system
+
+May 20 16:20:49 <cchristiansen>	M-Saunders: shouldn't that responsibility be shared out in the spirit of community? :)
+
+May 20 16:20:54 <LXF_Huw>	thanks very much everyone, it was lovely chatting with you all
+
+May 20 16:20:58 *	AndIrc_ (~android@483967.gotadsl.co.uk) has joined #linuxformat
+
+May 20 16:20:58 <LXF_Huw>	have a nice weekend! byeeeee
+
+May 20 16:21:01 <M-Saunders>	Dave2: Whoa
+
+May 20 16:21:07 <gwil>	JonRob: /dev/urandom > mac
+
+May 20 16:21:12 <AndreasFrom>	sudo rm Windows -rf
+
+May 20 16:21:13 <M-Saunders>	Dave2: Then I must have your... Banjo Kazooie?
+
+May 20 16:21:16 <Darth_Tux2328>	Theodore: is it that good? Maybe I should give Slack another chance?
+
+May 20 16:21:16 <degville>	LXF_Huw: bye huw!
+
+May 20 16:21:17 <LXF_Andrew>	But we don't have official national anythings in this country
+
+May 20 16:21:20 *	LXF_Huw has quit (Quit: yes! no!)
+
+May 20 16:21:24 <Dave2>	M-Saunders: I can't remember. It may well be.
+
+May 20 16:21:25 <M-Saunders>	Dave2: Er
+
+May 20 16:21:27 <LXF_Andrew>	Bye Huw!
+
+May 20 16:21:30 <M-Saunders>	Dave2: But I was playing Wave Race in November
+
+May 20 16:21:34 <Dave2>	Hm.
+
+May 20 16:21:34 <jsm2625>	jonrob: thanks
+
+May 20 16:21:35 <Darth_Tux2328>	bye Huw
+
+May 20 16:21:37 <felimwhiteley>	LXF_Andrew: you don't even have a Queen at the moment
+
+May 20 16:21:37 <M-Saunders>	Dave2: My original copy with my names and records
+
+May 20 16:21:38 <gwil>	LXF_Andrew: National food: Baked beans on toast
+
+May 20 16:21:39 <Dave2>	It must be someone else's
+
+May 20 16:21:41 *	M-Saunders = confusd
+
+May 20 16:21:46 <Dave2>	Why do I have a Wave Race then?
+
+May 20 16:21:49 <Dave2>	I never bought that game
+
+May 20 16:21:54 <M-Saunders>	Hrm
+
+May 20 16:21:55 <JonRob>	jsm2625?
+
+May 20 16:21:56 <gwil>	why is mike confused?
+
+May 20 16:22:04 <Theodore>	Darth_Tux2328: Yes.. and you 'll fell at home if you are familiar with the BSDz too!!!
+
+May 20 16:22:05 *	dg (dgl@babylon.otherwize.co.uk) has joined #linuxformat
+
+May 20 16:22:08 <M-Saunders>	dg!!!!!!
+
+May 20 16:22:11 <dg>	hi!
+
+May 20 16:22:16 <M-Saunders>	dg: Get ready -- there are people talking in here
+
+May 20 16:22:18 <dg>	someone said there were now people in here
+
+May 20 16:22:18 <LXF_Andrew>	Felim Why, do you want to keep her? I'll swap you for the queen of Ireland, Eamon Dunphy
+
+May 20 16:22:23 <dg>	I was shocked
+
+May 20 16:22:24 <Dave2>	M-Saunders: I already warned him
+
+May 20 16:22:27 <M-Saunders>	Cool
+
+May 20 16:22:29 <davmor2>	gwil: Dave2 got involved in a conversation with him
+
+May 20 16:22:39 <Dave2>	M-Saunders: I know I have some game of yours, anyway
+
+May 20 16:22:47 <M-Saunders>	Dave2: I have a Mario Party
+
+May 20 16:22:50 <Dave2>	And I think it's Wave Race.
+
+May 20 16:22:52 <M-Saunders>	Dave2: I'm sure that's not mine
+
+May 20 16:22:53 <jsm2625>	JonRob: Never mind, thought you were giving me the tune.
+
+May 20 16:22:56 <MikeN_>	I switched to Linux and I'm very happy. It does everything I want it to do and while the initial learning curve was steep, I spend a lot less time "managing" my Linux Laptop than my Windows Laptop. What joy...
+
+May 20 16:22:57 <Darth_Tux2328>	Theodore: Ok I'll give it a try!
+
+May 20 16:22:59 <Dave2>	M-Saunders: that one's probably mine
+
+May 20 16:23:06 <felimwhiteley>	LXF_Andrew: no we're showing her a good time but we aren't serious, just teasing! Just hold a beer out the Window sure he'll be over in a sec
+
+May 20 16:23:13 <JonRob>	jsm2625: well, thoough everyone would benefit
+
+May 20 16:23:16 <JonRob>	:-)
+
+May 20 16:23:17 <M-Saunders>	Dave2: Cool. Give me a shout next time you're in Bath, and we'll have a pint and game swap if you like
+
+May 20 16:23:22 <Darth_Tux2328>	Theodore: but a problem with Slack is that it dosen't have the unstable/devel version of Supertux
+
+May 20 16:23:31 <M-Saunders>	Darth_Tux2328: Complain to Pat V
+
+May 20 16:23:37 <Dave2>	M-Saunders: will do whenever I am
+
+May 20 16:23:56 <Darth_Tux2328>	Pat V?
+
+May 20 16:24:01 <Theodore>	Darth_Tux2328: The latest release is 13.37 and it includes KDE 4.5
+
+May 20 16:24:04 <Dave2>	Slackware guy
+
+May 20 16:24:10 <MikeN_>	Really got into Linux with Ubuntu and possibly "outgrown" it and now have moved on to Arch. What next, I wonder? Compiling everything from source. ;-)
+
+May 20 16:24:19 <AndIrc_>	ah... this is the life... beer garden, Guinness, free WiFi
+
+May 20 16:24:29 <gwil>	MikeN_: Linux from scratch FTW
+
+May 20 16:24:29 <cchristiansen>	MikeN_++
+
+May 20 16:24:30 *	M-Saunders = jealous
+
+May 20 16:24:38 <Darth_Tux2328>	Theodore: Ok, I'll give it a try!
+
+May 20 16:24:39 <M-Saunders>	AndIrc_: Nice work
+
+May 20 16:24:50 <Darth_Tux2328>	Theodore: Thanks
+
+May 20 16:24:53 *	JonRob is going to get the train and get back to exeter... no trains for two whole days :)
+
+May 20 16:24:58 <JonRob>	enjoy the weekend everyone!
+
+May 20 16:25:02 <M-Saunders>	Toodles
+
+May 20 16:25:12 <cchristiansen>	Goodbye
+
+May 20 16:25:20 <jellyman>	Cya :)
+
+May 20 16:25:24 <Theodore>	MikeN_ : No you do not have to do that in Slack.. You get an almost complete system after the first installation
+
+May 20 16:25:28 <LXF_Andrew>	Bye Jon, he types to the chap sitting two meters away
+
+May 20 16:25:32 *	JonRob has quit (Quit: Lost terminal)
+
+May 20 16:25:37 <cchristiansen>	Righhht, now time for a real question, who is your favourite person from LXF?
+
+May 20 16:25:49 <Darth_Tux2328>	Theodore: How to update Slackware? We have one at school that is ancient (ooo 2.3, kde 3, etc...)
+
+May 20 16:26:00 <sbox>	graham
+
+May 20 16:26:23 <Darth_Tux2328>	What is the new guy called?
+
+May 20 16:26:28 <Theodore>	MikeN_ : And then there is www.slackbuilds.org & www.slacky.eu where you can find any package you could possibly need
+
+May 20 16:26:35 <cchristiansen>	jon roberts
+
+May 20 16:26:36 <sbox>	Jonathan Roberts
+
+May 20 16:26:42 <Darth_Tux2328>	he seems cool
+
+May 20 16:26:48 <sbox>	agreed
+
+May 20 16:27:08 <MikeN_>	Theodore: I meant going really hardcore and installing Linux and everything from source. 
+
+May 20 16:27:15 <Darth_Tux2328>	almost all of the podcast people are cool, it seems
+
+May 20 16:27:30 <M-Saunders>	Yeah
+
+May 20 16:27:33 <sbox>	I'll be back
+
+May 20 16:27:44 <Theodore>	Darth_Tux2328: If you have a look at the CD-ROM / directory, there is always a file called UPDATE.TXT (or UPGRADE.TXT) where the process is described in detail.
+
+May 20 16:27:56 *	sbox has quit (Quit: Lost terminal)
+
+May 20 16:28:04 <AndreasFrom>	Paul send be a book, so I might be kinda biased :) *falls deeper in love with the Linux community*
+
+May 20 16:28:04 <M-Saunders>	Terminal loss fail
+
+May 20 16:28:14 <Theodore>	Darth_Tux2328: You do not need to reformat/reinstall etc
+
+May 20 16:28:20 <mcnalu>	Theodore, MikeN_ : oh slackware. I too am a slacker. Recommend sbopkg.
+
+May 20 16:28:28 <hudzilla>	AndreasFrom: I hope you're getting the chance to use it!
+
+May 20 16:28:35 <Darth_Tux2328>	Theodore: cool, thanks. But I don't think i can update anything without superuser privileges 
+
+May 20 16:28:37 *	herrgruen_afk has quit (Quit: leaving)
+
+May 20 16:28:42 <hudzilla>	AndreasFrom: If not, I want my 30 pounds back ;)
+
+May 20 16:28:53 *	AndIrc_ has quit (Quit: AndroidIrc Disconnecting)
+
+May 20 16:28:59 <Theodore>	Darth_Tux2328: You will of course need root access to do so
+
+May 20 16:29:23 <AndreasFrom>	hudzilla: I finished 200 pages and then I had exams and stuff, I have done some Gwibber hacking though :)
+
+May 20 16:29:24 <Darth_Tux2328>	darn.
+
+May 20 16:29:46 <Darth_Tux2328>	degville: there were no Linux stickers in LXF 144 for me
+
+May 20 16:30:02 <AndreasFrom>	was LXF144 supposed to have stickers?
+
+May 20 16:30:04 <Darth_Tux2328>	degville: were there supposed to be?
+
+May 20 16:30:11 <hudzilla>	AndreasFrom: Great! The more you write, the bigger your own personal code stash will become. Sooner or later you'll have enough code already written that you can put things together super-quick.
+
+May 20 16:30:12 <popey>	Stickers!?
+
+May 20 16:30:21 <popey>	I'll keep it away from my 4 year old
+
+May 20 16:30:31 <popey>	his bedroom door is covered in any stickers he finds
+
+May 20 16:30:42 <Darth_Tux2328>	because it's the first time an LXF magazine has not come with anything bonus
+
+May 20 16:30:50 <mfraz74>	popey: My daughter is the same
+
+May 20 16:30:52 <Theodore>	Darth_Tux2328: But surprisingly, I have even managed to upgrade from 32bit to 64bit without reinstalling all apps.. Imagine this happening on Windows!!!!
+
+May 20 16:30:57 <davmor2>	M-Saunders: Challenge an lxf lfs
+
+May 20 16:31:05 <thameslink>	I got those stickers, my daughter stuck them all over my misses laptop she... wasn't pleased
+
+May 20 16:31:13 <M-Saunders>	davmor2: Challenge an LXF to LFS?
+
+May 20 16:31:15 <M-Saunders>	Huh?
+
+May 20 16:31:18 <Darth_Tux2328>	(booklet, poster, 'coding academy' thing)
+
+May 20 16:31:20 <AndreasFrom>	hudzilla: Yeah :) I've got "reading for exams" -holiday next week, am going to finish it then.
+
+May 20 16:31:43 <davmor2>	M-Saunders: A LXF linux from scatch
+
+May 20 16:31:44 <Darth_Tux2328>	Thedore: wow! I don't think I've even ever used 64 bit windows
+
+May 20 16:31:47 <AndreasFrom>	hudzilla: Plus, this damn 3x3x3 cube steals all my time :D
+
+May 20 16:32:07 <Darth_Tux2328>	ooops: Theodore:
+
+May 20 16:32:12 <M-Saunders>	davmor2: Might be nice if we had the luxury of all that time :-)
+
+May 20 16:32:24 <mfraz74>	Only 64 bit linux I run is on my server
+
+May 20 16:32:27 <davmor2>	M-Saunders: HAHA
+
+May 20 16:32:30 <felimwhiteley>	M-Saunders: btw are you using your festival powered IRC clinet? Actually could use one here to work and listen in here..
+
+May 20 16:32:33 <degville>	Darth_Tux2328: there were supposed to be stickers in the US edition.
+
+May 20 16:32:38 <gwil>	I'm wondering, which OS projects is the best for a contribution. The problem is that I know ruby and very few, well used projects are written in it. I know a bit of C++ with Qt. Does anyone here have a C++/Qt project they wouldn't mind me helping with?
+
+May 20 16:32:42 <hudzilla>	AndreasFrom: I hope you have a good cube. My own speed cube is so nice compared to the nasty official ones.
+
+May 20 16:32:51 <Darth_Tux2328>	degville: ah, I guess that explains it
+
+May 20 16:33:01 <Darth_Tux2328>	degville: that's too bad
+
+May 20 16:33:08 <M-Saunders>	felimwhiteley: I was just looking for the code, but sadly I don't have it on my work machine :-(
+
+May 20 16:33:12 <gwil>	I keep starting my own projects but neve finishing them. I'm sure its the same with everyone though
+
+May 20 16:33:19 <felimwhiteley>	doh
+
+May 20 16:33:30 <Theodore>	I am sorry but I have to leave now.. It was really nice to be here for the first time!!!!! 
+
+May 20 16:33:38 <Darth_Tux2328>	QUESTION: how supported are Macs for Linux?
+
+May 20 16:33:42 <M-Saunders>	gwil: I think on Freshmeat you can search by language, and see if there are any projects that need help
+
+May 20 16:33:45 <AndreasFrom>	hudzilla: I've just got an off. Rubik's one, but I've lubed it. I hit 28.6 sec. yesterday. New personal best and it was in front of my class :)
+
+May 20 16:33:46 <M-Saunders>	Theodore: Bye!
+
+May 20 16:33:47 <Darth_Tux2328>	Theodore: thanks for your suggestions
+
+May 20 16:33:49 <davmor2>	M-Saunders: you have the advantage of being able to use the xfcd excuse for having sword fights in the office though (code compiling)
+
+May 20 16:33:56 <Darth_Tux2328>	Theodore: ciao!
+
+May 20 16:34:01 <M-Saunders>	davmor2: We have sword fights in the office anyway
+
+May 20 16:34:06 <Theodore>	I promiss to be back next time
+
+May 20 16:34:09 <M-Saunders>	davmor2: As stress relief
+
+May 20 16:34:13 <Theodore>	Glad to see you all
+
+May 20 16:34:20 <davmor2>	M-Saunders: haha wouldn't surprise me
+
+May 20 16:34:29 <biggles1000>	bye all
+
+May 20 16:34:34 <Darth_Tux2328>	ciao
+
+May 20 16:34:38 <AndreasFrom>	M-Saunders: You should record a typical work day! I wanna see that.
+
+May 20 16:34:40 <LXF_Andrew>	Ciao everybody, I'm off to join Effy at the water slide
+
+May 20 16:34:42 <M-Saunders>	davmor2: I carved the MikeOS cat logo into Andrew's chest in a fit of rage once
+
+May 20 16:34:52 <degville>	Darth_Tux2328: i'll mention it to our magazine team and see whether we can do the same thing for other regions. 
+
+May 20 16:34:52 <M-Saunders>	LXF_Andrew: Bye-a!
+
+May 20 16:35:01 *	biggles1000 has quit (Quit: Leaving)
+
+May 20 16:35:05 *	LXF_Andrew has quit (Quit: Leaving)
+
+May 20 16:35:07 <Darth_Tux2328>	see you LXF_Andrew!
+
+May 20 16:35:20 <Theodore>	Feel free to use my email address (tsioupros@gmail.com) if you feel I could help in anything (especially Slackware & related issues)
+
+May 20 16:35:22 <Darth_Tux2328>	degville: thanks, I'd love some Linux stickers!
+
+May 20 16:35:23 <M-Saunders>	And then there were 57
+
+May 20 16:35:41 <Darth_Tux2328>	Thedore: Thanks!
+
+May 20 16:35:41 <gwil>	has anyone played angrybirds on chrome (chrome.angrybirds.com) It shows how useable javascript is now
+
+May 20 16:35:43 <bobthebob1234>	I'm still here :D
+
+May 20 16:35:48 *	Kvik_sweden has quit (Ping timeout: 260 seconds)
+
+May 20 16:35:52 <cchristiansen>	angrybirds is amazing!
+
+May 20 16:35:53 <M-Saunders>	gwil: Yeah, it's really impressive!
+
+May 20 16:36:00 <M-Saunders>	gwil: End of Flash coming, methinks
+
+May 20 16:36:01 <Theodore>	This applies to anybody
+
+May 20 16:36:06 <cchristiansen>	is it all HTML5?
+
+May 20 16:36:08 <Theodore>	Bye
+
+May 20 16:36:09 <M-Saunders>	And too right -- Flash is terrible (well, the plugin)
+
+May 20 16:36:10 <AndreasFrom>	There are a lot of things going on with JS these days
+
+May 20 16:36:12 *	Theodore has quit (Quit: Leaving)
+
+May 20 16:36:14 <cchristiansen>	and javascipt?
+
+May 20 16:36:36 <felimwhiteley>	hmm I played it in FF4 would that have been flash or JS.. I didn't really look
+
+May 20 16:36:50 <davmor2>	M-Saunders: best browser to play angry birds in as a challenge :D
+
+May 20 16:37:07 <jsm2625>	Have to leave, bye everybody!
+
+May 20 16:37:10 *	diplo has quit (Quit: Leaving)
+
+May 20 16:37:12 <Darth_Tux2328>	has anyone use the eagle thing on angry birds?
+
+May 20 16:37:15 <MayankSharma>	and we'll soon lose another one M-Saunders, as it's time for dinner in some timezones
+
+May 20 16:37:26 *	jsm2625 has quit (Quit: Leaving)
+
+May 20 16:37:36 <hudzilla>	MayankSharma: And time for the pub in others - hurray!
+
+May 20 16:37:41 <AndreasFrom>	I've got an hour till dinner :)
+
+May 20 16:37:41 <hudzilla>	MayankSharma: Hello, BTW :)
+
+May 20 16:37:52 <MayankSharma>	you (we, everyone) should do this more often
+
+May 20 16:37:52 <M-Saunders>	Darth_Tux2328: Nevar!
+
+May 20 16:38:03 <MayankSharma>	hi hudzilla
+
+May 20 16:38:09 <mfraz74>	hudzilla: Think I'll treat myself to a cider instead
+
+May 20 16:38:19 <Darth_Tux2328>	M-Saunders: cool
+
+May 20 16:38:23 <gwil>	cchristiansen, M-Saunders: Pretty much and yes, the end if flash is neigh. :)
+
+May 20 16:38:36 <hudzilla>	MayankSharma: Are you firing on all cylinders nowadays?
+
+May 20 16:38:50 <MayankSharma>	I imagined this would be more verbose than email but...
+
+May 20 16:38:56 <cchristiansen>	The day when Flash is obsolete will be one of the most important days in the history of LInux!
+
+May 20 16:39:07 <gwil>	M-Saunders: How do I find projects which would like help on freshmeat?
+
+May 20 16:39:14 <AndreasFrom>	gwil: Flash is always neigh. It's everywhere! /deliberate misunderstanding
+
+May 20 16:39:14 <M-Saunders>	cchristiansen: And the interwebs in general I think
+
+May 20 16:39:25 <M-Saunders>	gwil: Dunno. Find project, see website, see if asking for help, I guesss
+
+May 20 16:39:47 <MayankSharma>	oh yes hudzilla and degville and Andrew are making sure that I do :)
+
+May 20 16:40:50 <felimwhiteley>	ohhhh sweeet
+
+May 20 16:40:53 <degville>	how are things hudzilla? released many 'things' this week?
+
+May 20 16:41:07 <felimwhiteley>	just seen Chinook and 2x Blackhawks.. in prep for Obama coming on Monday
+
+May 20 16:41:29 <M-Saunders>	felimwhiteley: Where are you?!
+
+May 20 16:41:29 *	MayankSharma has quit (Quit: It's kind of inevitable, right?)
+
+May 20 16:41:33 <bobthebob1234>	Hope he has to pay congestion charge!
+
+May 20 16:41:36 <felimwhiteley>	M-Saunders: Dublin
+
+May 20 16:41:37 <hudzilla>	degville: I'm certainly busy. I have more meetings nowadays. I have people who actually send meeting invites into my calendar rather than use email. It's a bit strange.
+
+May 20 16:41:51 <jellyman>	Anyway guys nice talking to you all, I hope we do this again :)
+
+May 20 16:42:01 <EspadaV8>	i think it's time i head off
+
+May 20 16:42:05 <jellyman>	See ya all later :)
+
+May 20 16:42:09 <degville>	jellyman: thanks! i definitely think we should do it again.
+
+May 20 16:42:11 <M-Saunders>	jellyman: Bye
+
+May 20 16:42:11 <EspadaV8>	just realised it's 2am nearly :-S
+
+May 20 16:42:17 <thameslink>	Well I have to go, but before I do, I came here to say something. The work you have done has been an important part of re-igniting my interest in computers. Ultimately this has led to my decision to leave my job and go and study something I'm interested in rather than spend my life chasing a pay check, so I know it's your job and you're paid to do this and everything but you've all been instrumental in a substant
+
+May 20 16:42:22 <M-Saunders>	EspadaV8: Where are you?
+
+May 20 16:42:36 <cchristiansen>	what IRC clients have the LXF team been reviewing by the way?
+
+May 20 16:42:37 *	EspadaV8 kinda died this last hour :(
+
+May 20 16:42:40 <thameslink>	ta bye bye
+
+May 20 16:42:43 <EspadaV8>	M-Saunders: brisbane, australia
+
+May 20 16:42:48 <EspadaV8>	from manchester uk though
+
+May 20 16:42:49 <Darth_Tux2328>	ciao
+
+May 20 16:42:53 <Darth_Tux2328>	QUESTION: is Supertux still being developed?
+
+May 20 16:42:56 *	thameslink (~thameslin@host86-141-69-111.range86-141.btcentralplus.com) has left #linuxformat
+
+May 20 16:43:08 <hudzilla>	Darth_Tux2328: AND IF NOT, WHY NOT?
+
+May 20 16:43:14 <Darth_Tux2328>	because it's a great game
+
+May 20 16:43:15 <mfraz74>	Darth_Tux2328: I think it is
+
+May 20 16:43:24 <M-Saunders>	Last update: 2009-04-29
+
+May 20 16:43:26 *	spamsnake has quit (Quit: Leaving)
+
+May 20 16:43:27 <degville>	cchristiansen: konversation. really pleased with it so far.
+
+May 20 16:43:28 <Darth_Tux2328>	It just seems that nothing is happening
+
+May 20 16:43:30 <M-Saunders>	Doesn't look promising
+
+May 20 16:43:34 <Darth_Tux2328>	on the website
+
+May 20 16:43:37 <Darth_Tux2328>	in the game
+
+May 20 16:43:46 <mfraz74>	OK, I'm off now too
+
+May 20 16:43:48 <Darth_Tux2328>	nothing new, that is
+
+May 20 16:43:57 <cchristiansen>	degville: much better than xchat in my opinion
+
+May 20 16:44:07 *	qwebirc79632 (7cabc728@gateway/web/freenode/ip.124.171.199.40) has joined #linuxformat
+
+May 20 16:44:07 <M-Saunders>	Last release: "0.3.3 / March 1, 2010; 14 months ago"
+
+May 20 16:44:09 <M-Saunders>	According to WP
+
+May 20 16:44:18 <Darth_Tux2328>	hmmm
+
+May 20 16:44:25 <AndreasFrom>	Hah, I just realized the #rubik channel. I'll stop pulling this off-topic then.
+
+May 20 16:44:26 *	mfraz74 has quit (Read error: Connection reset by peer)
+
+May 20 16:44:30 <Dave2>	w/in 58
+
+May 20 16:44:32 <Darth_Tux2328>	I really hope milestone 2.0 comes out soon
+
+May 20 16:44:45 *	jellyman has quit (Quit: Leaving)
+
+May 20 16:44:50 <degville>	cchristiansen: yes, i agree. i used to use kopete, but only just realised today that IRC support was dropped at some point.
+
+May 20 16:45:05 <Darth_Tux2328>	M-Saunders: thanks to you I tried Syobon Action!
+
+May 20 16:45:05 <EspadaV8>	hopefully see you guys around next time this happens
+
+May 20 16:45:08 <EspadaV8>	night all
+
+May 20 16:45:11 <Darth_Tux2328>	ciao!
+
+May 20 16:45:21 <degville>	EspadaV8: definitely! have a great weekend.
+
+May 20 16:45:24 <M-Saunders>	Darth_Tux2328: Whoa, that thing's tough
+
+May 20 16:45:24 *	qwebirc79632 has quit (Client Quit)
+
+May 20 16:45:29 <Darth_Tux2328>	M-Saunders: It's really fun!
+
+May 20 16:45:43 <M-Saunders>	Darth_Tux2328: How far have you got?
+
+May 20 16:45:51 <Darth_Tux2328>	M_Saunders: I finished it
+
+May 20 16:46:00 <M-Saunders>	Really?!
+
+May 20 16:46:05 <Darth_Tux2328>	Yeah.
+
+May 20 16:46:13 <M-Saunders>	It looked mentally hard from the bit I played
+
+May 20 16:46:17 <jemark>	im a download fedora 15 beta now
+
+May 20 16:46:20 <M-Saunders>	How long is it? How many levels?
+
+May 20 16:46:28 <Darth_Tux2328>	4 levels I believe
+
+May 20 16:46:44 <Darth_Tux2328>	(at least the version I found)
+
+May 20 16:46:56 <Darth_Tux2328>	The end is awesome, but really hard
+
+May 20 16:47:17 <M-Saunders>	I'm scared I'll have nightmares, after playing it again
+
+May 20 16:47:27 <Darth_Tux2328>	you have to get a robot to throw a mushroom at the evil cat
+
+May 20 16:47:38 <Darth_Tux2328>	withought letting the cat cut the bridge
+
+May 20 16:47:54 <Darth_Tux2328>	or being squished by the ceiling falling on you
+
+May 20 16:48:26 <Darth_Tux2328>	And at the end, instead of Princess Peach, there is a chicken-man
+
+May 20 16:48:36 <Darth_Tux2328>	that part I don't get
+
+May 20 16:48:58 *	geekybodhi (~androirc@122.161.87.240) has joined #linuxformat
+
+May 20 16:49:25 <AndreasFrom>	Why are all the sound indicators horizontal now? I liked them better vertical. Any opinions?
+
+May 20 16:49:41 <Darth_Tux2328>	for what?
+
+May 20 16:49:44 <M-Saunders>	Huh?
+
+May 20 16:50:00 <AndreasFrom>	ASCII seems a good time now btw
+
+May 20 16:50:15 *	spiffytech (spiffytech@pilot.trilug.org) has joined #linuxformat
+
+May 20 16:50:47 <Darth_Tux2328>	QUESTION: which is the strongest Linux chess engine?
+
+May 20 16:50:57 <M-Saunders>	 _.-;;-._
+
+May 20 16:50:57 <M-Saunders>	 '-..-'| || |
+
+May 20 16:50:57 <M-Saunders>	 '-..-'|_.-;;-._|
+
+May 20 16:50:57 <M-Saunders>	 '-..-'| || |
+
+May 20 16:50:57 <M-Saunders>	 '-..-'|_.-''-._|
+
+May 20 16:50:58 <M-Saunders>	
+
+May 20 16:50:59 <M-Saunders>	Er
+
+May 20 16:51:01 <M-Saunders>	Ooops!
+
+May 20 16:51:02 <nucc1>	Darth_Tux2328, crafty?
+
+May 20 16:51:05 <bobthebob1234>	shocking
+
+May 20 16:51:10 <AndreasFrom>	what on earth!!!
+
+May 20 16:51:18 <Darth_Tux2328>	M-Saunders: noooo!!!
+
+May 20 16:51:27 <AndreasFrom>	Mike has betrayed us
+
+May 20 16:51:36 <hudzilla>	Someone should /kick M-Saunders for that.
+
+May 20 16:51:40 <Darth_Tux2328>	nucc1: I really don't know
+
+May 20 16:51:48 <nucc1>	Darth_Tux2328, try Crafty
+
+May 20 16:51:55 <Darth_Tux2328>	nucc1: fairymax?
+
+May 20 16:51:55 <AndreasFrom>	and we thought only Canonical were paying you guys...
+
+May 20 16:52:06 <nucc1>	Darth_Tux2328, never heard of that one 
+
+May 20 16:52:13 <M-Saunders>	AndreasFrom: Not enough, clearly ;-)
+
+May 20 16:52:15 <Darth_Tux2328>	hmmm
+
+May 20 16:52:27 <hudzilla>	AndreasFrom: It's true; I haven't been so well off financially since I left LXF. I'm really missing the Canonical money :/
+
+May 20 16:52:30 <AndreasFrom>	M-Saunders: Good point
+
+May 20 16:52:45 <Darth_Tux2328>	nucc1: will see about crafty
+
+May 20 16:52:55 <degville>	We took a hit when they used our beer money to develop Unity.
+
+May 20 16:52:56 <AndreasFrom>	hudzilla: And the MS money as well? Or is that just Mike?
+
+May 20 16:53:12 <Darth_Tux2328>	nucc1: is there a Linux chess engine that has realistically beatable levels of play?
+
+May 20 16:53:12 <hudzilla>	degville: Fat lot of good it did them.
+
+May 20 16:53:15 <M-Saunders>	AndreasFrom: I'm getting money from Mike-O-Soft
+
+May 20 16:53:17 *	lokdlok has quit (Quit: Page closed)
+
+May 20 16:53:18 <AndreasFrom>	Beer is worth more than Unity.
+
+May 20 16:53:31 <hudzilla>	AndreasFrom: Microsoft has never paid me any money. Mostly because I filled out their tax form incorrectly.
+
+May 20 16:53:38 <cchristiansen>	M-Saunders: That's the poorest joke you've said all day
+
+May 20 16:53:39 <hudzilla>	AndreasFrom: That's actually true, by the way :)
+
+May 20 16:53:46 <AndreasFrom>	M-Saunders: You should make that company.
+
+May 20 16:53:55 <M-Saunders>	cchristiansen: And there was a lot of competition!
+
+May 20 16:54:01 <Darth_Tux2328>	where can one buy windows free computers?
+
+May 20 16:54:06 <AndreasFrom>	hudzilla: When did you have to pay Microsoft tax?
+
+May 20 16:54:11 <M-Saunders>	Darth_Tux2328: Linux Emporium
+
+May 20 16:54:12 <cchristiansen>	M-Saunders: very true
+
+May 20 16:54:18 *	magda (~magda@77-254-148-130.adsl.inetia.pl) has joined #linuxformat
+
+May 20 16:54:20 <MikeN_>	I've got to go now... It's been fun lurking here for a couple of hours. Bye. :-)
+
+May 20 16:54:25 <M-Saunders>	MikeN_: Bye!
+
+May 20 16:54:27 <bobthebob1234>	build the computer from statch
+
+May 20 16:54:34 <hudzilla>	AndreasFrom: Not pay *to* Microsoft; more that before they can pay me, they had to have the form back so they can pay the right amount to the IRS in the US.
+
+May 20 16:54:36 <hydrantmark>	M-Saunders: Mike-O-Soft? That reminds me of the episode of The Simpsons where Homer and Granpa take over a pub in Ireland 
+
+May 20 16:54:40 <Darth_Tux2328>	M-Saunders: but they only have the english keyboard layout
+
+May 20 16:54:44 <degville>	MikeN_: bye!
+
+May 20 16:55:07 <bobthebob1234>	Darth_Tux2328: Build one then :D
+
+May 20 16:55:10 *	MikeN_ has quit (Quit: leaving)
+
+May 20 16:55:11 *	gwil has quit (Quit: "Gone Coding....")
+
+May 20 16:55:13 <AndreasFrom>	hudzilla: Ahh I see, I'm glad I don't have to deal with tax forms yet :)
+
+May 20 16:55:28 <Darth_Tux2328>	bobthebob1234: laptop?
+
+May 20 16:55:37 <magda>	hi can anyone give me a link to a good SELinux tutorial ?
+
+May 20 16:55:39 <bobthebob1234>	erm... 
+
+May 20 16:55:43 <hudzilla>	AndreasFrom: It will all come in due time. Perhaps.
+
+May 20 16:55:45 <Darth_Tux2328>	bobthebob1234: I think that could be difficult
+
+May 20 16:55:58 <AndreasFrom>	hudzilla: now you've scared me!?
+
+May 20 16:56:01 <Darth_Tux2328>	bobthebob1234: doable, but hard, I think
+
+May 20 16:56:15 <hudzilla>	AndreasFrom: Tax is inevitable, sadly.
+
+May 20 16:56:17 <AndreasFrom>	magda: Linux Format did one I think
+
+May 20 16:56:23 <hudzilla>	AndreasFrom: Actually, not sadly - I don't mind paying tax.
+
+May 20 16:56:44 *	DoubleDiode (~DoubleDio@2.97.35.85) has left #linuxformat
+
+May 20 16:56:47 <bobthebob1234>	Darth_Tux2328: there seems to be some companies out there that let you. Don't know if win free
+
+May 20 16:56:55 <cchristiansen>	hudzilla: but you don't live in Denmark, the country with the highest taxation rate, almost
+
+May 20 16:57:10 <Darth_Tux2328>	bobthebob1234: it would be nice
+
+May 20 16:57:12 <AndreasFrom>	hudzilla: Yeah like the tuple of death and online flamewars. /end of LXF144 Graham qoute
+
+May 20 16:57:30 <AndreasFrom>	Go Denmark!! We just need a new government...
+
+May 20 16:57:31 <Darth_Tux2328>	The 'Linux Emporium' seems perfect, but I want to change the keyboard layout
+
+May 20 16:57:34 <hudzilla>	cchristiansen: That wouldn't really bother me. If you're getting taxed a lot, there are probably other folks that need it more :)
+
+May 20 16:57:50 <bobthebob1234>	Darth_Tux2328: Don't know where you are from but http://www.pcspecialist.co.uk/notebooks/enigmaIII-520/ seems to let you select no os. Never used them though
+
+May 20 16:58:05 <bobthebob1234>	or just get some keyboard stickers :D
+
+May 20 16:58:25 <AndreasFrom>	Once you understand the benefit of taxes, I don't think they hurt as much. if even still
+
+May 20 16:58:39 <magda>	AndreasForm - I know ,I would like something broader without having to buy a text book about SELinux.
+
+May 20 16:58:45 <cchristiansen>	hudzilla: I won't mind tax when I pay it, so long as the money's spent probably
+
+May 20 16:58:53 <AndreasFrom>	I'm making weird sentences today...
+
+May 20 16:58:56 <Darth_Tux2328>	the problem with keyboard stickers is that there's nowhere to put the accented keys
+
+May 20 16:59:02 <AndreasFrom>	magda: Oh okay
+
+May 20 16:59:06 <Darth_Tux2328>	èòàùéç
+
+May 20 16:59:59 <degville>	ok. I've got to go and get my train. it's been fantastic though - we should do it again! have a great weekend everyone!
+
+May 20 17:00:01 <hudzilla>	Darth_Tux2328: You should get a keyboard overlay, like all good Amiga games used to have.
+
+May 20 17:00:12 <M-Saunders>	Ah, the Amiga
+
+May 20 17:00:15 <Darth_Tux2328>	hudzilla: what's that?
+
+May 20 17:00:19 *	degville has quit (Remote host closed the connection)
+
+May 20 17:00:24 <hudzilla>	M-Saunders: Sorry for bringing it up, Mike.
+
+May 20 17:00:30 *	M-Saunders sheds a tear
+
+May 20 17:00:34 <M-Saunders>	Them were't days
+
+May 20 17:00:54 <hudzilla>	Hmm. It's approaching pub o'clock.
+
+May 20 17:00:56 <AndreasFrom>	How do you do those message things?
+
+May 20 17:01:05 <M-Saunders>	/me does something
+
+May 20 17:01:23 <AndreasFrom>	ahh thanks. 2nd day on IRC :)
+
+May 20 17:01:31 <Darth_Tux2328>	degville: what's a keyboard overlay???
+
+May 20 17:01:33 <Darth_Tux2328>	?
+
+May 20 17:01:43 *	AndreasFrom thanks M-Saunders for the info
+
+May 20 17:02:01 *	minino has quit (Quit: Ex-Chat)
+
+May 20 17:02:15 <M-Saunders>	Keine Ursache!
+
+May 20 17:02:22 <hudzilla>	Darth_Tux2328: In The Old Days, when you played games, the buttons on your keyboard did various stuff. For example, F6 might toggle the flaps on your plane whereas F8 might turn on the afterburner.
+
+May 20 17:02:33 <cchristiansen>	M-Saunders: German and Danish aren't the same thing ;)
+
+May 20 17:02:35 *	AndreasFrom tries to resist the urge of scrambling his cube for the 10th time this hour
+
+May 20 17:02:37 *	cheu (~cheu@c-174-56-81-207.hsd1.nm.comcast.net) has joined #linuxformat
+
+May 20 17:02:38 <hudzilla>	Darth_Tux2328: Clearly remembering all this was rubbish, so keyboard overlays just wrote what all those things did over the keys.
+
+May 20 17:02:45 <M-Saunders>	cchristiansen: Danish is just German pronounced badly :-)
+
+May 20 17:02:49 <Darth_Tux2328>	hudzilla: Ahhh, ok! thanks!
+
+May 20 17:02:58 <AndreasFrom>	M-Saunders: Or the other way around :P
+
+May 20 17:03:08 <cchristiansen>	AndreasFrom++
+
+May 20 17:03:13 <M-Saunders>	And with those 'o' things with lines through them
+
+May 20 17:03:18 <AndreasFrom>	Ø
+
+May 20 17:03:33 <AndreasFrom>	they're awesome. We've got Æ and Å aswell
+
+May 20 17:03:33 <M-Saunders>	Yeah, those things
+
+May 20 17:03:42 <M-Saunders>	What's the deal? How do you pronounce them?
+
+May 20 17:03:42 <AndreasFrom>	no umlauts though
+
+May 20 17:03:50 <hudzilla>	AndreasFrom: To make that argument, you'd need to argue that German was a Denmarkic language or something ;)
+
+May 20 17:03:55 <AndreasFrom>	Æ is like AE
+
+May 20 17:04:11 <cchristiansen>	M-Saunders: I wouldn't try to pronounce Danish...
+
+May 20 17:04:25 <AndreasFrom>	Æ is like AE in "heart"
+
+May 20 17:04:28 <cchristiansen>	rød grød med flød, try that out ;)
+
+May 20 17:04:30 <M-Saunders>	OK
+
+May 20 17:04:32 <M-Saunders>	I'll try not to
+
+May 20 17:04:40 <magda>	Any good linux podcasts out there? like the linux action show .
+
+May 20 17:04:42 <AndreasFrom>	Ø is like "uhh"
+
+May 20 17:05:01 <AndreasFrom>	I've got no good explanation for å, that's just weird
+
+May 20 17:05:02 <M-Saunders>	Like ö in German?
+
+May 20 17:05:09 <AndreasFrom>	yeah of course!
+
+May 20 17:05:16 <cchristiansen>	ø = ö
+
+May 20 17:05:18 <AndreasFrom>	ø and ö
+
+May 20 17:05:18 <M-Saunders>	Gotcha
+
+May 20 17:05:27 <hudzilla>	IRC is so much more humorous when your IRC client ignores non-ASCII characters.
+
+May 20 17:05:38 <hudzilla>	AndreasFrom: So, are you saying then that ? and ? are both pronounced like ? in Danish?
+
+May 20 17:05:41 <M-Saunders>	hudzilla: What client are you using?
+
+May 20 17:05:46 >hudzilla<	CTCP VERSION
+
+May 20 17:05:47 -hudzilla-	VERSION irssi v0.8.14
+
+May 20 17:05:54 <M-Saunders>	Ah, Irssi
+
+May 20 17:05:57 <AndreasFrom>	actually æ/Æ is like the first 'e' in "everything"
+
+May 20 17:06:15 <cchristiansen>	M-Saunders: what client are you using?
+
+May 20 17:06:20 <M-Saunders>	cchristiansen: X-Chat
+
+May 20 17:06:34 <cchristiansen>	any good?
+
+May 20 17:06:37 *	Milo_ (4e936f7b@gateway/web/freenode/ip.78.147.111.123) has joined #linuxformat
+
+May 20 17:06:40 <AndreasFrom>	hudzilla: no I'm saying that X and x are both pronounced like z/Z in Danish
+
+May 20 17:06:44 <M-Saunders>	Yeah, does a decent job. Fits in well with Xfce
+
+May 20 17:06:50 <AndreasFrom>	XChat as well
+
+May 20 17:06:52 <magda>	pls point me to them , many podcasts have pod faded and are off the air .
+
+May 20 17:06:59 <Darth_Tux2328>	Xchat+Gnome=nice
+
+May 20 17:07:05 <AndreasFrom>	used irssi yesterday though
+
+May 20 17:07:15 <M-Saunders>	I used to use Irssi back in the day
+
+May 20 17:07:20 <M-Saunders>	Is BitchX still being updated?
+
+May 20 17:07:30 <cchristiansen>	AndreasFrom: which is better?
+
+May 20 17:07:50 <hudzilla>	M-Saunders: If you call a Sourceforge project "being updated", then yes.
+
+May 20 17:08:09 <AndreasFrom>	cchristiansen: irssi was awesome when I just had a text prompt in front of me, on Gnome though I prefer XChat
+
+May 20 17:08:44 <AndreasFrom>	Well I need to eat now, It has been truly awesome though. Again, this community rocks!
+
+May 20 17:08:49 <asdfas2wefw1>	Has there been a review of FOSS SIP clients yet?
+
+May 20 17:09:00 <cchristiansen>	Farwell!
+
+May 20 17:09:03 <Darth_Tux2328>	ciao!
+
+May 20 17:09:07 <magda>	bye 
+
+May 20 17:09:17 *	AndreasFrom has quit (Quit: Leaving)
+
+May 20 17:09:20 <Darth_Tux2328>	Ok Guys, I'm going too
+
+May 20 17:09:26 <Darth_Tux2328>	Thanks for organizing this chat
+
+May 20 17:09:31 <Milo_>	yeah.. is there something nicer someone would recommend? webchat.freenode.net make sme feel like i could be getting more D:
+
+May 20 17:09:36 <cchristiansen>	bye!
+
+May 20 17:09:41 <Darth_Tux2328>	and I'm looking forward to the next podcast!
+
+May 20 17:09:44 <Darth_Tux2328>	ttyl!
+
+May 20 17:09:50 <bobthebob1234>	webchat.freenode.net FTW!!!!
+
+May 20 17:09:52 <M-Saunders>	Bye!
+
+May 20 17:09:53 <Milo_>	ttfn @_
+
+May 20 17:10:00 *	Darth_Tux2328 has quit (Quit: Leaving)
+
+May 20 17:10:19 <Milo_>	bobthebob1234: you think?
+
+May 20 17:10:32 <Milo_>	:L
+
+May 20 17:10:39 <bobthebob1234>	well when the irc ports are blocked at uni yer...
+
+May 20 17:11:02 <Milo_>	mmmm always a bonus I guess :)
+
+May 20 17:11:13 <cchristiansen>	school networks are shocking..
+
+May 20 17:11:30 *	huw_ (~huw@82-69-74-205.dsl.in-addr.zen.co.uk) has joined #linuxformat
+
+May 20 17:11:33 <hudzilla>	It's time for the pub.
+
+May 20 17:11:35 <huw_>	hullo!
+
+May 20 17:11:43 <cchristiansen>	hullo again!
+
+May 20 17:11:47 <bobthebob1234>	i can tunnel to a remote server and access that way but its a pain
+
+May 20 17:11:49 <huw_>	what have i missed?
+
+May 20 17:11:51 <magda>	huw_ hello
+
+May 20 17:11:59 <bobthebob1234>	huw_ more free money
+
+May 20 17:12:01 <hudzilla>	I'll be in the Cork if you want to pop along, M-Saunders.
+
+May 20 17:12:06 <cchristiansen>	Mike being taught danish
+
+May 20 17:12:09 <huw_>	bah. i always miss that :(
+
+May 20 17:12:18 <Milo_>	hudzilla: might aswell get a round in before the end of the world eh?
+
+May 20 17:12:21 *	dazfuller (~yaaic@cpc1-stap1-0-0-cust738.12-2.cable.virginmedia.com) has joined #linuxformat
+
+May 20 17:12:43 <M-Saunders>	hudzilla: Doh, can't tonight, but thanks!
+
+May 20 17:12:45 *	m0a0t0 (~m0a0t0@87-194-147-166.bethere.co.uk) has joined #linuxformat
+
+May 20 17:12:57 <huw_>	not many LXF staff made it to 17:30 then! tch!
+
+May 20 17:12:59 *	hudzilla has quit (Quit: Hurray for living in the West Country!)
+
+May 20 17:13:12 <cchristiansen>	and then, there was one
+
+May 20 17:13:19 <Milo_>	:P
+
+May 20 17:13:25 <huw_>	everyone gather around Mike!
+
+May 20 17:13:29 *	huw_ gathers
+
+May 20 17:13:38 <dazfuller>	I know its 2 late but hi anyway
+
+May 20 17:13:44 <huw_>	regale us with stories, wise one
+
+May 20 17:13:46 <bobthebob1234>	huw_ gathers what???
+
+May 20 17:13:50 <huw_>	hi dazfuller 
+
+May 20 17:13:54 <Milo_>	when did Effy Jonathon and Graham leave?
+
+May 20 17:13:57 <huw_>	bobthebob1234, gathers around Mike :)
+
+May 20 17:14:09 <bobthebob1234>	ages ago
+
+May 20 17:14:17 <Milo_>	ahh, i see
+
+May 20 17:14:35 <bobthebob1234>	they were weak
+
+May 20 17:14:53 <Milo_>	or wise.
+
+May 20 17:14:59 *	m0a0t0 (~m0a0t0@87-194-147-166.bethere.co.uk) has left #linuxformat
+
+May 20 17:15:01 <cchristiansen>	I'll have to go now as well :(
+
+May 20 17:15:05 <cchristiansen>	cheerio!
+
+May 20 17:15:14 *	cchristiansen has quit (Remote host closed the connection)
+
+May 20 17:15:16 <Milo_>	tara!
+
+May 20 17:15:29 <davmor2>	M-Saunders: Thanks for this it's been fun :D
+
+May 20 17:15:43 *	jemark has quit (Remote host closed the connection)
+
+May 20 17:16:21 <maxwildcat>	M-Saunders: you guys should do this more often .. :D geekiest way to meet the public :P
+
+May 20 17:16:25 <dazfuller>	so I arrived in time to say bye to everyone 
+
+May 20 17:16:32 <huw_>	yeah it has, i'm looking forward to next week's session M-Saunders 
+
+May 20 17:16:45 <Milo_>	dazfuller: likewise :/
+
+May 20 17:17:41 <dazfuller>	hope next time I'll have a laptop instead of using my phone
+
+May 20 17:18:00 <Milo_>	:P
+
+May 20 17:18:18 <huw_>	ha, damn, i can't imagine using IRC on my phone
+
+May 20 17:18:25 <huw_>	that must be rather difficult
+
+May 20 17:18:48 *	bobthebob1234 has quit (Ping timeout: 252 seconds)
+
+May 20 17:18:55 <dazfuller>	its not bad, had to hunt around for a gpl'd one though
+
+May 20 17:19:51 *	bobthebob1234 (907cd54d@gateway/web/freenode/ip.144.124.213.77) has joined #linuxformat
+
+May 20 17:19:54 <anonymouspenguin>	swmbo has summoned me, byeee
+
+May 20 17:20:31 <huw_>	cya anonymouspenguin 
+
+May 20 17:20:33 *	anonymouspenguin has quit (Quit: leaving)
+
+May 20 17:20:49 *	gavin___ (c2b0693a@gateway/web/freenode/ip.194.176.105.58) has joined #linuxformat
+
+May 20 17:21:03 <nucc1>	if you're trying to buy a desktop and want to use two monitors, what kind of graphics card do you need, or how many of them? 
+
+May 20 17:21:04 *	kam has quit (Quit: ChatZilla 0.9.86.1 [Firefox 3.6.17/20110422070434])
+
+May 20 17:21:58 <bobthebob1234>	nucc1 A dual headed graphics card or two graphics cards if your motherboard supports them
+
+May 20 17:22:41 <maxwildcat>	and thus i take my leave as well ... guess i'll try catch you guys from home :)
+
+May 20 17:22:49 *	maxwildcat has quit (Quit: ChatZilla 0.9.86.1 [Firefox 4.0.1/20110413222027])
+
+May 20 17:23:32 <M-Saunders>	I'm still here!
+
+May 20 17:23:35 <M-Saunders>	But got to go now
+
+May 20 17:23:36 <nucc1>	bobthebob1234, i doesn't seem to be so straightforward to tell if a card is dual-headed from the branding
+
+May 20 17:23:41 <M-Saunders>	Might pop in at the weekend if I have time
+
+May 20 17:23:46 <bobthebob1234>	noooooooooooooooooooooo!
+
+May 20 17:23:47 <M-Saunders>	Been great fun though -- thanks for turning up!
+
+May 20 17:23:52 <nucc1>	cheers
+
+May 20 17:23:55 <M-Saunders>	I'll put the log on TuxRadar on Monday :-)
+
+May 20 17:23:59 <dazfuller>	bye M-saunders
+
+May 20 17:24:00 <hydrantmark>	c ya M-Saunders, cheers bud
+
+May 20 17:24:00 <huw_>	cya M-Saunders 
+
+May 20 17:24:04 <M-Saunders>	Cheers folks
+
+May 20 17:24:07 <huw_>	yeah thanks for doing this
+
+May 20 17:24:28 <M-Saunders>	Dave2: Oh, and I've made you an op in case any trouble kicks off :-)
+
+May 20 17:24:29 *	M-Saunders gives channel operator status to Dave2
+
+May 20 17:24:34 *	Disconnected ().
+
+**** ENDING LOGGING AT Fri May 20 17:24:34 2011
