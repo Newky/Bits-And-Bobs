@@ -1,0 +1,12 @@
+t: Things I've picked up a long the way that are useful
+a: Richy Delaney
+
+sect: Ignoring already tracked files in existing Git Repository that pattern match the .gitignore file
+
+\begin{verbatim}
+
+(GIT_INDEX_FILE=some-non-existant-file \
+ git ls-files --exclude-standard --others --directory --ignored -z) |
+ xargs -0 git rm --cached -r --ignore-unmatch --
+
+\end{verbatim}
