@@ -10,3 +10,9 @@ sect: Ignoring already tracked files in existing Git Repository that pattern mat
  xargs -0 git rm --cached -r --ignore-unmatch --
 
 \end{verbatim}
+
+sect: Stopping and starting background jobs in linux
+
+Ctrl-Z -> while in a terminal will background the current process
+bg -> will show you the background jobs
+fg [id] -> bring the job back (optionally specify a job id)
