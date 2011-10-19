@@ -16,10 +16,10 @@ x();}};			sub p{      my($v,$k
 		       sub x{ 	    my %m=(
 		      'Tando'       .'ori'.
 		      ' Chic'       .'ken'.
-		     ' Pani'         .'ni'=>        5.50);          foreach
-					            $k(keys        %m) {
-					               print    "$k\t\t".
-					                "$m{$k  }"; } }
+		     ' Pani'         .'ni'=>        5.50);           foreach
+					            $k(keys         %m) {
+					               print      "$k\t\t".
+					                "$m{$k  }\n"; } }
 					                  #And Chips &
 					                    #Curry
 					                      #€3
