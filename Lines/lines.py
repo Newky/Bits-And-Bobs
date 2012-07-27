@@ -17,6 +17,14 @@ def count(line):
                 else:
                         length+=1
         return length
+        
+def is_single_line(pattern, line):
+        count = 0 
+        index = line.find(pattern)
+        while index != -1: 
+                count += 1
+                index = line.find(pattern, index+1)
+        return (count > 1)
 
 def check_file(filename):
         f = open(filename, "r")
@@ -25,9 +33,11 @@ def check_file(filename):
         docstring_sq = False
         for line in f.readlines():
                 if "\"\"\"" in line:
-                        docstring_dq = not docstring_dq
+                        if not is_single_line('"""', line):
+                                docstring_dq = not docstring_dq
                 if "'''" in line:
-                        docstring_sq = not docstring_sq
+                        if not is_single_line("'''", line):
+                                docstring_sq = not docstring_sq
 
                 if docstring_dq or docstring_sq:
                         linecount+=1
