@@ -103,9 +103,12 @@ def color_from_number(alive):
 	elif alive in range(13, 21):
 		#teenager
 		color = pygame.Color(255, 0, 0),
-	elif alive >= 21:
-		#Rest of life
+	elif alive in range(21, 31):
+		#Young adult.
 		color = pygame.Color(0, 0, 255),
+	elif alive >= 31:
+		#Rest of lifes..
+		color = pygame.Color(0, 255, 0),
 	return color
 
 
@@ -205,7 +208,18 @@ def init_grid(starting_func=None):
 def main():
 	screen = window_setup()
 
-	starting_grid, starting_grid_objects = init_grid()
+	def every_second_one():
+		closed_variable = [0]
+		def func():
+			closed_variable[0] += 1
+			if closed_variable[0] % 2 == 0:
+				return 1
+			else:
+				return 0
+
+		return func
+
+	starting_grid, starting_grid_objects = init_grid(starting_func=every_second_one())
 
 	while True:
 		update_grid(starting_grid)
